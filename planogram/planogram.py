@@ -104,44 +104,43 @@ def get_args():
 def main():
     args = get_args()
     
-    # Figure out what arguments were supplied to the program.
-    # Planogram should handle them individually, if non positional.
-    # TODO: Rename fetch command to avoid name collisions with "format"!!
-    if args["retrieve"] == True:
+    # The retrieve flag is checked for first, and is handled like a seperate program
+    if args["retrieve"]:
         # The fetch command requires double verification because of how long it takes.
         selection = input("Are you sure? This will take a lot of clicks! (Y/n): ")
-        success = True # TODO: Change back to false
+        success = False # TODO: Change back to false
         
-        """
         if selection == 'Y':
             # Only attempt a NetrunnerDB fetch if the user agrees.
             success = retrieve.fetch_all()
+            
+            # Extra user feedback based on how the fetch went
+            if success == True:
+                print("Caching...")
+                
+                decklists.cache_legal_decklists()
+                cards.cache_legality()
+                
+                print("Success!")
+            else:
+                print("Unsuccessful.")
         elif selection != 'n':
             print("error: selection can only be 'Y' or 'n'.")
-        """
         
-        # Extra user feedback based on how the fetch went
-        if success:
-            print("Caching...")
-            
-            decklists.cache_legal_decklists()
-            cards.cache_legality()
-            
-            print("Success!")
-        else:
-            print("Unsuccessful.")
-    elif args["query"] != None:
+        return
+    
+    # Otherwise, the output data should be modified based on program flags
+    # The list of decklists searched starts with every single one being in the cache
+    filtered_decklists = decklists.get_all_decklists()
+    
+    if args["query"] != None:
         query = args["query"]
-        print(query)
-        ds = decklists.get_all_decklists()
-        ds = jsonquery(ds, query)
-        list.list(ds)
-    elif args["format"] != None:
-        chosen_decklists = decklists.get_decklists(args["format"])
-        
-        list.list(chosen_decklists)
-    else:
-        list.list_all()
+        filtered_decklists = jsonquery(filtered_decklists, query)
+    
+    if args["format"] != None:
+        filtered_decklists = decklists.get_decklists(args["format"])
+    
+    list.list(filtered_decklists)
 
 if __name__ == "__main__":
     main()
