@@ -141,6 +141,8 @@ def main():
         filtered_decklists = decklists.get_decklists(args["format"])
     
     list.list(filtered_decklists)
+    
+    decklists.split_by_side(filtered_decklists)
 
 if __name__ == "__main__":
     main()

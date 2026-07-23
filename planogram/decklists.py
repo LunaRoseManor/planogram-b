@@ -64,9 +64,24 @@ def cache_legal_decklists():
         
         print(side_id)
 
-def is_side(side_id="corp"):
-    pass # TODO: implement
+def is_side(decklist, side_id="corp"):
+    return decklist["attributes"]["side_id"] == side_id
+
+def split_by_side(decklists):
+    split_decklists = {
+        "corp": [],
+        "runner": []
+    }
     
+    for decklist in decklists:
+        if is_side(decklist, "runner"):
+            split_decklists["runner"].append(decklist)
+        elif is_side(decklist, "corp"):
+            split_decklists["corp"].append(decklist)
+    
+    print(split_decklists["corp"])
+    
+    return split_decklists
 
 def get_decklists(format="standard"):
     DECKLISTS_FILE = "data/decklists/" + format + ".json"
