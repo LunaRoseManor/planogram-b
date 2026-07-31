@@ -6,6 +6,9 @@ import cards
 import decklists
 import os
 
+"""
+Retrieves global config data from the specified file
+"""
 def get_config():
     PATH = "data/config.json"
     config = {}
@@ -102,8 +105,10 @@ def get_args():
     return args
 
 def main():
+    # Retrieve argument data both from the file and user input
     args = get_args()
     
+    # Then, check which of the flags has been used
     # The retrieve flag is checked for first, and is handled like a seperate program
     if args["retrieve"]:
         # The fetch command requires double verification because of how long it takes.
@@ -133,16 +138,21 @@ def main():
     # The list of decklists searched starts with every single one being in the cache
     filtered_decklists = decklists.get_all_decklists()
     
+    # The query command is for raw json queries
+    # This should be deprecated at some stage
+    # It's only really for debugging purposes
     if args["query"] != None:
         query = args["query"]
         filtered_decklists = jsonquery(filtered_decklists, query)
     
+    # Allows users to search by format
+    # NOTE: The method won't use for multiple operands, same as above
     if args["format"] != None:
         filtered_decklists = decklists.get_decklists(args["format"])
     
-    list.list(filtered_decklists)
-    
-    decklists.split_by_side(filtered_decklists)
+    # Finally, the output should be displayed
+    # By default this is just a big list of top cards
+    list.list(filtered_decklists, False)
 
 if __name__ == "__main__":
     main()

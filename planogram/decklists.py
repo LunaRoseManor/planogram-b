@@ -41,19 +41,18 @@ def cache_legal_decklists():
     # Netrunner is an asymmetrical game, so there needs to be room in the
     # data to distinguish the different sides
     decklists_raw = get_all_decklists()
-    legal_decklists = {}
+    legal_decklists = get_filtered_to_legal(decklists_raw, format_id)
     legality = {}
     side_ids = sides.get_side_ids()
     
     # Create the global decklist caches in the root decklist folder for each format
     for format_id in current_format_ids:
         legality = helpers.get_dict_from_json_file("data/legality/" + format_id + ".json")
-        legal_decklists = get_filtered_to_legal(decklists_raw, format_id)
         format_decklists_file = "data/decklists/" + format_id + ".json"
         
         helpers.dump_json_to_file(legal_decklists, format_decklists_file)
     
-    # Then for each side in each format
+    # Then, for each side
     for side_id in side_ids:
         sided_decklist_folder = "data/decklists/" + side_id
         
@@ -78,8 +77,6 @@ def split_by_side(decklists):
             split_decklists["runner"].append(decklist)
         elif is_side(decklist, "corp"):
             split_decklists["corp"].append(decklist)
-    
-    print(split_decklists["corp"])
     
     return split_decklists
 

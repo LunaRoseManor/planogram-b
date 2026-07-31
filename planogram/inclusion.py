@@ -4,7 +4,7 @@ def get_inclusion_rates(decklists):
     inclusion_rates = {}
     
     # Using a brute force approach, this loop creates a key for each unique card
-    # it finds in the provided decklists, 
+    # it finds in the provided decklists, then stores the quantity as an int
     for decklist in decklists:
         card_slots = decklist["attributes"]["card_slots"]
         

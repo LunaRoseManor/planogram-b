@@ -1,0 +1,23 @@
+g – advancement cost
+v – agenda points
+b – ban list (not available in deckbuilding)
+l – base link
+o – cost
+c – cycle (not available in deckbuilding)
+f – faction (not available in deckbuilding)
+a – flavor text
+i – illustrator
+n – influence (faction cost)
+m – memory usage
+y – quantity printed in set
+r – release date (not available in deckbuilding)
+z – rotation (not available in deckbuilding)
+e – set
+d – side
+p – strength
+s – subtype
+x – text
+_ – title
+h – trash cost
+t – type
+u – unique
