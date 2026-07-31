@@ -1,11 +1,14 @@
 import json
 import helpers
 import cards
+import titles
 import decklists
 import inclusion
 from jsonquerylang import jsonquery
 
 def list(chosen_decklists, sided=True):
+    card_titles = titles.get_titles()
+    
     # This is my hack solution to being able to list optionally based on sides
     # This should 1000% be fixed up ASAP
     if sided:
@@ -20,7 +23,7 @@ def list(chosen_decklists, sided=True):
         for side in inclusion_rates:
             for card in inclusion_rates[side]:
                 print('#' + str(card_num) + '.',
-                    card,
+                    card_titles[card],
                     "included in",
                     str(
                         helpers.get_percentage_of_whole(inclusion_rates[side][card],
@@ -33,7 +36,7 @@ def list(chosen_decklists, sided=True):
         # Search the list of inclusion rates and output them to command line
         for card in inclusion_rates:
             print('#' + str(card_num) + '.',
-                card,
+                card_titles[card],
                 "included in",
                 str(helpers.get_percentage_of_whole(inclusion_rates[card],
                     len(chosen_decklists))) + "% of all decklists")

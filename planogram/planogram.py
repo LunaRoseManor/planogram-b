@@ -110,7 +110,7 @@ def main():
     args = get_args()
     
     titles.cache_titles()
-    """
+    
     # Then, check which of the flags has been used
     # The retrieve flag is checked for first, and is handled like a seperate program
     if args["retrieve"]:
@@ -156,7 +156,6 @@ def main():
     # Finally, the output should be displayed
     # By default this is just a big list of top cards
     list.list(filtered_decklists, False)
-    """
     
     card_titles = titles.get_titles()
 
