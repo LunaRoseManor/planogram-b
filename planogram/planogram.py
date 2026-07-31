@@ -154,7 +154,10 @@ def main():
     
     # Finally, the output should be displayed
     # By default this is just a big list of top cards
-    list.list(filtered_decklists, False)
+    output = list.list(decklists.split_by_side(filtered_decklists), sided=True)
+    
+    with open("output_file.txt", 'w', encoding="utf-8") as f:
+        f.write(output)
     
     card_titles = titles.get_titles()
 

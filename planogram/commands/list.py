@@ -6,8 +6,9 @@ import decklists
 import inclusion
 from jsonquerylang import jsonquery
 
-def list(chosen_decklists, sided=True):
+def list(chosen_decklists, sided=False):
     card_titles = titles.get_titles()
+    output = ""
     
     # This is my hack solution to being able to list optionally based on sides
     # This should 1000% be fixed up ASAP
@@ -22,12 +23,8 @@ def list(chosen_decklists, sided=True):
         
         for side in inclusion_rates:
             for card in inclusion_rates[side]:
-                print('#' + str(card_num) + '.',
-                    card_titles[card],
-                    "included in",
-                    str(
-                        helpers.get_percentage_of_whole(inclusion_rates[side][card],
-                            len(chosen_decklists[side]))) + "% of all " + side + " decklists")
+                line = '#' + str(card_num) + ". " + card_titles[card] + " included in " + str(helpers.get_percentage_of_whole(inclusion_rates[side][card], len(chosen_decklists[side]))) + "% of all " + side + " decklists\n"
+                output = output + line
                 card_num -= 1
     else:
         inclusion_rates = inclusion.get_inclusion_rates(chosen_decklists)
@@ -35,14 +32,15 @@ def list(chosen_decklists, sided=True):
         
         # Search the list of inclusion rates and output them to command line
         for card in inclusion_rates:
-            print('#' + str(card_num) + '.',
-                card_titles[card],
-                "included in",
-                str(helpers.get_percentage_of_whole(inclusion_rates[card],
-                    len(chosen_decklists))) + "% of all decklists")
+            line = '#' + str(card_num) + ". " + card_titles[card] + " included in " + str(helpers.get_percentage_of_whole(inclusion_rates[card], len(chosen_decklists))) + "% of all decklists\n"
             card_num -= 1
+            output = output + line
         
-        print("Operation played, searched", len(chosen_decklists), "decks")
+    
+    print(output)
+    print("Operation played, searched", len(chosen_decklists), "decks")
+    
+    return output
 
 """
 Lists all cards in Netrunner across all formats based on data scraped using
