@@ -109,8 +109,6 @@ def main():
     # Retrieve argument data both from the file and user input
     args = get_args()
     
-    titles.cache_titles()
-    
     # Then, check which of the flags has been used
     # The retrieve flag is checked for first, and is handled like a seperate program
     if args["retrieve"]:
@@ -128,6 +126,7 @@ def main():
                 
                 decklists.cache_legal_decklists()
                 cards.cache_legality()
+                titles.cache_titles()
                 
                 print("Success!")
             else:
