@@ -3,6 +3,7 @@ from jsonquerylang import jsonquery
 import argparse
 from commands import retrieve, list
 import cards
+import titles
 import decklists
 import os
 
@@ -108,6 +109,8 @@ def main():
     # Retrieve argument data both from the file and user input
     args = get_args()
     
+    titles.cache_titles()
+    """
     # Then, check which of the flags has been used
     # The retrieve flag is checked for first, and is handled like a seperate program
     if args["retrieve"]:
@@ -153,6 +156,9 @@ def main():
     # Finally, the output should be displayed
     # By default this is just a big list of top cards
     list.list(filtered_decklists, False)
+    """
+    
+    card_titles = titles.get_titles()
 
 if __name__ == "__main__":
     main()
