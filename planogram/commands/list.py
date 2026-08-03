@@ -10,6 +10,7 @@ def list(chosen_decklists):
     # Use split data instead so the inclusion rates can be seperated
     inclusion_rates = inclusion.get_inclusion_rates(chosen_decklists)
     split_decklists = decklists.split_by_side(chosen_decklists)
+    faction_decklists = decklists.split_by_faction(chosen_decklists)
     card_num = len(inclusion_rates)
     card_titles = titles.get_titles()
     inclusion_percentages = {}

@@ -1,583 +1,220 @@
-#583. Letheia Nisei included in 0.07% of all corp decklists
-#582. Storgotic Resonator included in 0.1% of all corp decklists
-#581. Sorocaban Blade included in 0.1% of all corp decklists
-#580. The Catalyst: Convention Breaker included in 0.14% of all runner decklists
-#579. Complete Image included in 0.13% of all corp decklists
-#578. CSR Campaign included in 0.17% of all corp decklists
-#577. Utae included in 0.17% of all runner decklists
-#576. Kimberlite Field included in 0.2% of all corp decklists
-#575. Cold Site Server included in 0.2% of all corp decklists
-#574. Focus Group included in 0.2% of all corp decklists
-#573. Congratulations! included in 0.23% of all corp decklists
-#572. Hyoubu Precog Manifold included in 0.23% of all corp decklists
-#571. The Back included in 0.31% of all runner decklists
-#570. Hyoubu Institute: Absolute Clarity included in 0.3% of all corp decklists
-#569. Meeting of Minds included in 0.35% of all runner decklists
-#568. Vera Ivanovna Shuyskaya included in 0.33% of all corp decklists
-#567. Brasília Government Grid included in 0.37% of all corp decklists
-#566. Bring Them Home included in 0.37% of all corp decklists
-#565. Trieste Model Bioroids included in 0.37% of all corp decklists
-#564. Mu Safecracker included in 0.38% of all runner decklists
-#563. Prāna Condenser included in 0.4% of all corp decklists
-#562. Odore included in 0.41% of all runner decklists
-#561. Climactic Showdown included in 0.41% of all runner decklists
-#560. Cordyceps included in 0.45% of all runner decklists
-#559. Virtuoso included in 0.45% of all runner decklists
-#558. Lightning Laboratory included in 0.43% of all corp decklists
-#557. Tunnel Vision included in 0.48% of all runner decklists
-#556. ezaM included in 0.47% of all corp decklists
-#555. Isolation included in 0.48% of all runner decklists
-#554. Hackerspace included in 0.52% of all runner decklists
-#553. Nova Initiumia: Catalyst & Impetus included in 0.52% of all runner decklists
-#552. Ampère: Cybernetics For Anyone included in 0.5% of all corp decklists
-#551. Superdeep Borehole included in 0.5% of all corp decklists
-#550. Lampades included in 0.52% of all runner decklists
-#549. Vaporframe Fabricator included in 0.5% of all corp decklists
-#548. Active Policing included in 0.53% of all corp decklists
-#547. Pauleʼs Café included in 0.55% of all runner decklists
-#546. Lycian Multi-Munition included in 0.57% of all corp decklists
-#545. Public Health Portal included in 0.57% of all corp decklists
-#544. Transport Monopoly included in 0.57% of all corp decklists
-#543. Secure and Protect included in 0.57% of all corp decklists
-#542. Tremolo included in 0.59% of all runner decklists
-#541. Reduced Service included in 0.6% of all corp decklists
-#540. Retirement Plan included in 0.6% of all corp decklists
-#539. Konjin included in 0.6% of all corp decklists
-#538. Roughneck Repair Squad included in 0.6% of all corp decklists
-#537. NEXT Activation Command included in 0.63% of all corp decklists
-#536. Capybara included in 0.66% of all runner decklists
-#535. Anvil included in 0.67% of all corp decklists
-#534. Klevetnik included in 0.67% of all corp decklists
-#533. Tiered Subscription included in 0.7% of all corp decklists
-#532. Hype Machine included in 0.7% of all corp decklists
-#531. Refuge Campaign included in 0.73% of all corp decklists
-#530. Makler included in 0.76% of all runner decklists
-#529. Chain Reaction included in 0.76% of all runner decklists
-#528. Nanuq included in 0.76% of all runner decklists
-#527. The Wizard’s Chest included in 0.8% of all runner decklists
-#526. Chrysopoeian Skimming included in 0.8% of all runner decklists
-#525. Loot Box included in 0.76% of all corp decklists
-#524. Ivik included in 0.76% of all corp decklists
-#523. Sipa included in 0.8% of all runner decklists
-#522. Thunderbolt Armaments: Peace Through Power included in 0.8% of all corp decklists
-#521. Increased Drop Rates included in 0.86% of all corp decklists
-#520. Light the Fire! included in 0.9% of all runner decklists
-#519. Digital Rights Management included in 0.86% of all corp decklists
-#518. Supercorridor included in 0.93% of all runner decklists
-#517. Stegodon MK IV included in 0.96% of all corp decklists
-#516. Yakov Erikovich Avdakov included in 0.96% of all corp decklists
-#515. Living Mural included in 1.0% of all runner decklists
-#514. Amelia Earhart included in 1.0% of all runner decklists
-#513. Flower Sermon included in 1.0% of all corp decklists
-#512. SYNC Rerouting included in 1.0% of all corp decklists
-#511. Perfect Recall included in 1.03% of all corp decklists
-#510. Demolisher included in 1.07% of all runner decklists
-#509. In the Groove included in 1.11% of all runner decklists
-#508. Trust Operation included in 1.06% of all corp decklists
-#507. Masterwork (v37) included in 1.14% of all runner decklists
-#506. Word on the Street included in 1.14% of all runner decklists
-#505. Mutually Assured Destruction included in 1.16% of all corp decklists
-#504. Beta Build included in 1.21% of all runner decklists
-#503. Argus Crackdown included in 1.2% of all corp decklists
-#502. MirrorMorph: Endless Iteration included in 1.23% of all corp decklists
-#501. Cybertrooper Talut included in 1.28% of all runner decklists
-#500. Kakurenbo included in 1.26% of all corp decklists
-#499. Stargate included in 1.31% of all runner decklists
-#498. Joy Ride included in 1.31% of all runner decklists
-#497. The Syndicate: Profit over Principle included in 1.26% of all corp decklists
-#496. Zenit Chip JZ-2MJ included in 1.35% of all runner decklists
-#495. Always Have a Backup Plan included in 1.38% of all runner decklists
-#494. Concerto included in 1.38% of all runner decklists
-#493. Backstitching included in 1.42% of all runner decklists
-#492. Issuaq Adaptics: Sustaining Diversity included in 1.4% of all corp decklists
-#491. Daily Quest included in 1.4% of all corp decklists
-#490. Janaína “JK” Dumont Kindelán included in 1.43% of all corp decklists
-#489. Nanoetching Matrix included in 1.43% of all corp decklists
-#488. Rime included in 1.43% of all corp decklists
-#487. Nga included in 1.49% of all runner decklists
-#486. Num included in 1.49% of all runner decklists
-#485. Umbrella included in 1.52% of all runner decklists
-#484. The Nihilist included in 1.52% of all runner decklists
-#483. Lucky Charm included in 1.52% of all runner decklists
-#482. Jeitinho included in 1.52% of all runner decklists
-#481. Game Over included in 1.46% of all corp decklists
-#480. Stick and Poke included in 1.56% of all runner decklists
-#479. Info Bounty included in 1.56% of all runner decklists
-#478. Vicsek included in 1.5% of all corp decklists
-#477. Khusyuk included in 1.59% of all runner decklists
-#476. Vertigo included in 1.53% of all corp decklists
-#475. GameNET: Where Dreams are Real included in 1.53% of all corp decklists
-#474. Asmund Pudlat included in 1.66% of all runner decklists
-#473. realloc() included in 1.6% of all corp decklists
-#472. PAN-Weave included in 1.66% of all runner decklists
-#471. Calvin B4L3Y included in 1.63% of all corp decklists
-#470. Midnight-3 Arcology included in 1.66% of all corp decklists
-#469. Heliamphora included in 1.73% of all runner decklists
-#468. “Baklan” Bochkin included in 1.73% of all runner decklists
-#467. Mitosis included in 1.7% of all corp decklists
-#466. Hearts and Minds included in 1.7% of all corp decklists
-#465. Methuselah included in 1.76% of all runner decklists
-#464. Ansel 2.0 included in 1.73% of all corp decklists
-#463. ZATO City Grid included in 1.73% of all corp decklists
-#462. Reverb included in 1.73% of all corp decklists
-#461. Shackleton Grid included in 1.76% of all corp decklists
-#460. Borrowed Goods included in 1.83% of all runner decklists
-#459. Carnivore included in 1.83% of all runner decklists
-#458. Hypoxia included in 1.76% of all corp decklists
-#457. Project Yagi-Uda included in 1.8% of all corp decklists
-#456. Boi-tatá included in 1.87% of all runner decklists
-#455. Ubiquitous Vig included in 1.83% of all corp decklists
-#454. Trebuchet included in 1.83% of all corp decklists
-#453. Simulation Reset included in 1.83% of all corp decklists
-#452. Scapegoat included in 1.83% of all corp decklists
-#451. Spark of Inspiration included in 1.9% of all runner decklists
-#450. Az McCaffrey: Mechanical Prodigy included in 1.94% of all runner decklists
-#449. Luana Campos included in 1.86% of all corp decklists
-#448. Pravdivost Consulting: Political Solutions included in 1.9% of all corp decklists
-#447. Flux Capacitor included in 1.97% of all runner decklists
-#446. Rotary included in 1.97% of all runner decklists
-#445. Echo included in 1.9% of all corp decklists
-#444. Esca included in 1.9% of all corp decklists
-#443. Regulatory Capture included in 1.9% of all corp decklists
-#442. Take a Dive included in 2.0% of all runner decklists
-#441. NAPD Cordon included in 1.93% of all corp decklists
-#440. Abaasy included in 2.04% of all runner decklists
-#439. Caveat Emptor included in 1.96% of all corp decklists
-#438. Sell Out included in 2.07% of all runner decklists
-#437. Wave included in 2.0% of all corp decklists
-#436. The Artist included in 2.07% of all runner decklists
-#435. Juli Moreira Lee included in 2.07% of all runner decklists
-#434. Penrose included in 2.07% of all runner decklists
-#433. Distributed Tracing included in 2.03% of all corp decklists
-#432. Front Company included in 2.06% of all corp decklists
-#431. Aircheck included in 2.18% of all runner decklists
-#430. Corsair included in 2.18% of all runner decklists
-#429. Hiram “0mission” Svensson: Shadow of the Past included in 2.18% of all runner decklists
-#428. Read-Write Share included in 2.25% of all runner decklists
-#427. Paywall included in 2.19% of all corp decklists
-#426. Lobisomem included in 2.32% of all runner decklists
-#425. Monkeywrench included in 2.32% of all runner decklists
-#424. Direct Access included in 2.35% of all runner decklists
-#423. Spree included in 2.35% of all runner decklists
-#422. Underdome Irregulars included in 2.35% of all runner decklists
-#421. Bloop included in 2.29% of all corp decklists
-#420. Envelopment included in 2.29% of all corp decklists
-#419. Blueberry!™ Diesel included in 2.39% of all runner decklists
-#418. Colossus included in 2.33% of all corp decklists
-#417. Scapenet included in 2.33% of all corp decklists
-#416. Avgustina Ivanovskaya included in 2.45% of all runner decklists
-#415. Ob Superheavy Logistics: Extract. Export. Excel. included in 2.36% of all corp decklists
-#414. Divested Trust included in 2.39% of all corp decklists
-#413. Sandstone included in 2.39% of all corp decklists
-#412. Nurse Hạnh included in 2.52% of all runner decklists
-#411. Penumbral Toolkit included in 2.52% of all runner decklists
-#410. Laser Pointer included in 2.52% of all runner decklists
-#409. Armed Asset Protection included in 2.43% of all corp decklists
-#408. Seraph included in 2.46% of all corp decklists
-#407. Mr. Hendrik included in 2.46% of all corp decklists
-#406. Capacitor included in 2.46% of all corp decklists
-#405. Vasilisa included in 2.49% of all corp decklists
-#404. Earth Station: SEA Headquarters included in 2.49% of all corp decklists
-#403. Bass CH1R180G4 included in 2.49% of all corp decklists
-#402. Kingmaking included in 2.49% of all corp decklists
-#401. Backroom Machinations included in 2.53% of all corp decklists
-#400. Detente included in 2.63% of all runner decklists
-#399. Eye for an Eye included in 2.66% of all runner decklists
-#398. The Red Room included in 2.63% of all corp decklists
-#397. Cerebral Overwriter included in 2.63% of all corp decklists
-#396. Pulse included in 2.66% of all corp decklists
-#395. Hyperbaric included in 2.8% of all runner decklists
-#394. Shred included in 2.8% of all runner decklists
-#393. Lethe included in 2.69% of all corp decklists
-#392. Megaprix Qualifier included in 2.73% of all corp decklists
-#391. Beatriz Friere Gonzalez included in 2.9% of all runner decklists
-#390. Hákarl 1.0 included in 2.83% of all corp decklists
-#389. Daniela Jorge Inácio included in 2.86% of all corp decklists
-#388. Remastered Edition included in 2.86% of all corp decklists
-#387. Baker included in 2.97% of all runner decklists
-#386. Post-Truth Dividend included in 2.86% of all corp decklists
-#385. Amanuensis included in 3.04% of all runner decklists
-#384. Big Deal included in 2.93% of all corp decklists
-#383. A Teia: IP Recovery included in 2.96% of all corp decklists
-#382. Bathynomus included in 2.99% of all corp decklists
-#381. PT Untaian: Life's Building Blocks included in 2.99% of all corp decklists
-#380. Prognostic Q-Loop included in 3.11% of all runner decklists
-#379. Nonequivalent Exchange included in 2.99% of all corp decklists
-#378. Vovô Ozetti included in 3.03% of all corp decklists
-#377. Dewi Subrotoputri: Pedagogical Dhalang included in 3.15% of all runner decklists
-#376. Bling included in 3.15% of all runner decklists
-#375. Pantograph included in 3.15% of all runner decklists
-#374. Swift included in 3.18% of all runner decklists
-#373. Synchrocyclotron included in 3.06% of all corp decklists
-#372. Reanimation Protocol included in 3.06% of all corp decklists
-#371. Flip Switch included in 3.21% of all runner decklists
-#370. Epiphany Analytica: Nations Undivided included in 3.13% of all corp decklists
-#369. Sudden Commandment included in 3.13% of all corp decklists
-#368. Vladisibirsk City Grid included in 3.16% of all corp decklists
-#367. Isaac Liberdade included in 3.16% of all corp decklists
-#366. Orca included in 3.28% of all runner decklists
-#365. Sisyphus Protocol included in 3.16% of all corp decklists
-#364. Topan: Ormas Leader included in 3.32% of all runner decklists
-#363. Editorial Division: Ad Nihilum included in 3.19% of all corp decklists
-#362. Balanced Coverage included in 3.23% of all corp decklists
-#361. Reaper Function included in 3.23% of all corp decklists
-#360. Neurospike included in 3.26% of all corp decklists
-#359. Poétrï Luxury Brands: All the Rage included in 3.29% of all corp decklists
-#358. See How They Run included in 3.29% of all corp decklists
-#357. Kompromat included in 3.42% of all runner decklists
-#356. Flywheel included in 3.29% of all corp decklists
-#355. Basilar Synthgland 2KVJ included in 3.46% of all runner decklists
-#354. Cultivate included in 3.33% of all corp decklists
-#353. Hostile Architecture included in 3.33% of all corp decklists
-#352. Into the Depths included in 3.46% of all runner decklists
-#351. Nuvem SA: Law of the Land included in 3.36% of all corp decklists
-#350. Salvo Testing included in 3.43% of all corp decklists
-#349. Poison Vial included in 3.56% of all runner decklists
-#348. Mercury: Chrome Libertador included in 3.56% of all runner decklists
-#347. Hantu included in 3.59% of all runner decklists
-#346. Warm Reception included in 3.46% of all corp decklists
-#345. Lotus Haze included in 3.49% of all corp decklists
-#344. Ganked! included in 3.56% of all corp decklists
-#343. Debbie "Downtown" Moreira included in 3.73% of all runner decklists
-#342. Malandragem included in 3.73% of all runner decklists
-#341. Adrian Seis included in 3.62% of all corp decklists
-#340. Daeg, First Net-Cat included in 3.77% of all runner decklists
-#339. Fransofia Ward included in 3.77% of all runner decklists
-#338. Jaguarundi included in 3.66% of all corp decklists
-#337. Azef Protocol included in 3.66% of all corp decklists
-#336. Pelangi included in 3.84% of all runner decklists
-#335. Witch Hunt included in 3.69% of all corp decklists
-#334. Captain Padma Isbister: Intrepid Explorer included in 3.87% of all runner decklists
-#333. Mantle included in 3.87% of all runner decklists
-#332. Thule Subsea: Safety Below included in 3.76% of all corp decklists
-#331. Hippocampic Mechanocytes included in 3.94% of all runner decklists
-#330. Nihilo Agent included in 3.79% of all corp decklists
-#329. Time Bomb included in 3.98% of all runner decklists
-#328. Magistrate Revontulet included in 3.86% of all corp decklists
-#327. Stavka included in 3.89% of all corp decklists
-#326. Architect Deployment Test included in 3.89% of all corp decklists
-#325. Rent Rioters included in 4.04% of all runner decklists
-#324. Knowledge Seeker included in 3.92% of all corp decklists
-#323. Stowaway included in 4.08% of all runner decklists
-#322. Working Prototype included in 3.92% of all corp decklists
-#321. Sebastião Souza Pessoa: Activist Organizer included in 4.08% of all runner decklists
-#320. Vulnerability Audit included in 3.92% of all corp decklists
-#319. Stoke the Embers included in 3.96% of all corp decklists
-#318. Reprise included in 4.11% of all runner decklists
-#317. Chekist Scion included in 3.99% of all corp decklists
-#316. Banner included in 4.15% of all runner decklists
-#315. LEO Construction: Labor Solutions included in 3.99% of all corp decklists
-#314. Grubber included in 3.99% of all corp decklists
-#313. Hafrún included in 4.02% of all corp decklists
-#312. Synapse Global: Faster than Thought included in 4.02% of all corp decklists
-#311. Federal Fundraising included in 4.09% of all corp decklists
-#310. Ryō “Phoenix” Ōno: Out of the Ashes included in 4.29% of all runner decklists
-#309. Lamplighter included in 4.12% of all corp decklists
-#308. Charm Offensive included in 4.36% of all runner decklists
-#307. Afterimage included in 4.46% of all runner decklists
-#306. Chastushka included in 4.49% of all runner decklists
-#305. Gaslight included in 4.32% of all corp decklists
-#304. Starlit Knight included in 4.36% of all corp decklists
-#303. Mercia B4LL4RD included in 4.36% of all corp decklists
-#302. Saci included in 4.53% of all runner decklists
-#301. Unleash included in 4.42% of all corp decklists
-#300. Djupstad Grid included in 4.42% of all corp decklists
-#299. Tailgate included in 4.63% of all runner decklists
-#298. Tāo Salonga: Telepresence Magician included in 4.67% of all runner decklists
-#297. Unsmiling Tsarevna included in 4.49% of all corp decklists
-#296. Rejig included in 4.7% of all runner decklists
-#295. Corporate Hospitality included in 4.52% of all corp decklists
-#294. Katorga Breakout included in 4.74% of all runner decklists
-#293. Sacrifice Zone Expansion included in 4.59% of all corp decklists
-#292. Mahkota Langit Grid included in 4.62% of all corp decklists
-#291. Élivágar Bifurcation included in 4.62% of all corp decklists
-#290. Aggressive Trendsetting included in 4.72% of all corp decklists
-#289. Nightmare Archive included in 4.72% of all corp decklists
-#288. BANGUN: When Disaster Strikes included in 4.76% of all corp decklists
-#287. Phoneutria included in 4.79% of all corp decklists
-#286. Virtual Service Agent included in 4.79% of all corp decklists
-#285. Chisel included in 5.05% of all runner decklists
-#284. Týr included in 4.86% of all corp decklists
-#283. Behold! included in 4.86% of all corp decklists
-#282. Business As Usual included in 4.89% of all corp decklists
-#281. Hagen included in 4.96% of all corp decklists
-#280. IP Enforcement included in 4.99% of all corp decklists
-#279. F2P included in 4.99% of all corp decklists
-#278. Valentão included in 5.02% of all corp decklists
-#277. Esâ Afontov: Eco-Insurrectionist included in 5.22% of all runner decklists
-#276. Begemot included in 5.22% of all runner decklists
-#275. Rigging Up included in 5.29% of all runner decklists
-#274. Flagship included in 5.09% of all corp decklists
-#273. Ghosttongue included in 5.36% of all runner decklists
-#272. B-1001 included in 5.19% of all corp decklists
-#271. Running Hot included in 5.46% of all runner decklists
-#270. Virtual Intelligence, P.I.: “You Can Call Me Vic” included in 5.5% of all runner decklists
-#269. Nebula Talent Management: Making Stars included in 5.29% of all corp decklists
-#268. Extract included in 5.29% of all corp decklists
-#267. Ballista included in 5.32% of all corp decklists
-#266. Urban Art Vernissage included in 5.53% of all runner decklists
-#265. Idiosyncresis included in 5.32% of all corp decklists
-#264. Blood in the Water included in 5.39% of all corp decklists
-#263. Pivot included in 5.39% of all corp decklists
-#262. Shipment from Vladisibirsk included in 5.45% of all corp decklists
-#261. Greasing the Palm included in 5.49% of all corp decklists
-#260. Pressure Spike included in 5.7% of all runner decklists
-#259. Cat's Cradle included in 5.7% of all runner decklists
-#258. Ontological Dependence included in 5.55% of all corp decklists
-#257. Lat: Ethical Freelancer included in 5.77% of all runner decklists
-#256. Ansel 1.0 included in 5.59% of all corp decklists
-#255. Friend of a Friend included in 5.84% of all runner decklists
-#254. Aniccam included in 5.88% of all runner decklists
-#253. Top-Down Solutions included in 5.69% of all corp decklists
-#252. Slap Vandal included in 5.91% of all runner decklists
-#251. Alarm Clock included in 5.95% of all runner decklists
-#250. Tocsin included in 5.75% of all corp decklists
-#249. Mycoweb included in 5.79% of all corp decklists
-#248. AMAZE Amusements included in 5.82% of all corp decklists
-#247. Freedom of Information included in 5.89% of all corp decklists
-#246. Jinteki: Restoring Humanity included in 5.92% of all corp decklists
-#245. Valentina Ferreira Carvalho included in 6.15% of all runner decklists
-#244. Madani included in 6.15% of all runner decklists
-#243. Angelique Garza Correa included in 5.95% of all corp decklists
-#242. DreamNet included in 6.26% of all runner decklists
-#241. Piranhas included in 6.02% of all corp decklists
-#240. Marrow included in 6.33% of all runner decklists
-#239. Wall to Wall included in 6.12% of all corp decklists
-#238. Proprionegation included in 6.12% of all corp decklists
-#237. Tucana included in 6.12% of all corp decklists
-#236. Artificial Cryptocrash included in 6.15% of all corp decklists
-#235. Public Trail included in 6.25% of all corp decklists
-#234. Barry “Baz” Wong: Tri-Maf Veteran included in 6.5% of all runner decklists
-#233. Oracle Thinktank included in 6.25% of all corp decklists
-#232. Flood the Market included in 6.32% of all corp decklists
-#231. Lago Paranoá Shelter included in 6.67% of all runner decklists
-#230. Otto Campaign included in 6.48% of all corp decklists
-#229. Gauss included in 6.77% of all runner decklists
-#228. Peer Review included in 6.55% of all corp decklists
-#227. Arissana Rocha Nahu: Street Artist included in 6.84% of all runner decklists
-#226. Haas-Bioroid: Precision Design included in 6.68% of all corp decklists
-#225. Saisentan included in 6.75% of all corp decklists
-#224. Cacophony included in 7.02% of all runner decklists
-#223. Akhet included in 6.82% of all corp decklists
-#222. Plutus included in 6.82% of all corp decklists
-#221. Finality included in 7.09% of all runner decklists
-#220. Myōshu included in 6.85% of all corp decklists
-#219. Tranquilizer included in 7.19% of all runner decklists
-#218. VRcation included in 7.19% of all runner decklists
-#217. Vampyronassa included in 6.92% of all corp decklists
-#216. Euler included in 7.22% of all runner decklists
-#215. Lionsmane included in 6.98% of all corp decklists
-#214. Sprint included in 7.02% of all corp decklists
-#213. Mindscaping included in 7.05% of all corp decklists
-#212. Vulture Fund included in 7.05% of all corp decklists
-#211. Méliès U: Only the Brightest included in 7.08% of all corp decklists
-#210. N-Pot included in 7.08% of all corp decklists
-#209. Manuel Lattes de Moura included in 7.47% of all runner decklists
-#208. Harmony AR Therapy included in 7.47% of all runner decklists
-#207. The Zwicky Group: Invisible Hands included in 7.28% of all corp decklists
-#206. Devil Charm included in 7.6% of all runner decklists
-#205. Bigger Picture included in 7.35% of all corp decklists
-#204. Pichação included in 7.67% of all runner decklists
-#203. Gachapon included in 7.71% of all runner decklists
-#202. Kessleroid included in 7.42% of all corp decklists
-#201. Wildcat Strike included in 7.74% of all runner decklists
-#200. Arruaceiras Crew included in 7.74% of all runner decklists
-#199. Diviner included in 7.48% of all corp decklists
-#198. Touchstone included in 7.78% of all runner decklists
-#197. Hybrid Release included in 7.52% of all corp decklists
-#196. Sericulture Expansion included in 7.52% of all corp decklists
-#195. Fully Operational included in 7.52% of all corp decklists
-#194. Carpe Diem included in 7.85% of all runner decklists
-#193. Cookbook included in 7.88% of all runner decklists
-#192. Burner included in 7.92% of all runner decklists
-#191. Eminent Domain included in 7.68% of all corp decklists
-#190. AU Co.: The Gold Standard in Clones included in 7.72% of all corp decklists
-#189. Illumination included in 8.02% of all runner decklists
-#188. Bladderwort included in 7.72% of all corp decklists
-#187. T400 Memory Diamond included in 8.05% of all runner decklists
-#186. Window of Opportunity included in 8.19% of all runner decklists
-#185. Magdalene Keino-Chemutai: Cryptarchitect included in 8.23% of all runner decklists
-#184. Maglectric Rapid (748 Mod) included in 8.3% of all runner decklists
-#183. Keiko included in 8.4% of all runner decklists
-#182. Smartware Distributor included in 8.47% of all runner decklists
-#181. MuslihaT: Multifarious Marketeer included in 8.54% of all runner decklists
-#180. Red Team included in 8.61% of all runner decklists
-#179. Hush included in 8.68% of all runner decklists
-#178. Malapert Data Vault included in 8.51% of all corp decklists
-#177. Cataloguer included in 8.88% of all runner decklists
-#176. Lie Low included in 8.92% of all runner decklists
-#175. Public Access Plaza included in 8.65% of all corp decklists
-#174. Karunā included in 8.71% of all corp decklists
-#173. The Price included in 9.19% of all runner decklists
-#172. Retribution included in 8.88% of all corp decklists
-#171. Your Digital Life included in 8.88% of all corp decklists
-#170. Nico Campaign included in 8.95% of all corp decklists
-#169. Devadatta Drone included in 9.33% of all runner decklists
-#168. M.I.C. included in 9.21% of all corp decklists
-#167. Deep Dive included in 9.57% of all runner decklists
-#166. Nanomanagement included in 9.25% of all corp decklists
-#165. Side Hustle included in 9.64% of all runner decklists
-#164. Chromatophores included in 9.75% of all runner decklists
-#163. Embedded Reporting included in 9.38% of all corp decklists
-#162. Privileged Access included in 9.82% of all runner decklists
-#161. Solidarity Badge included in 9.85% of all runner decklists
-#160. Phật Gioan Baotixita included in 9.64% of all corp decklists
-#159. “Pretty” Mary da Silva included in 10.02% of all runner decklists
-#158. Hammer included in 9.74% of all corp decklists
-#157. Slash and Burn Agriculture included in 9.84% of all corp decklists
-#156. AirbladeX (JSRF Ed.) included in 10.23% of all runner decklists
-#155. Principia included in 10.27% of all runner decklists
-#154. Audrey v2 included in 10.3% of all runner decklists
-#153. Descent included in 10.01% of all corp decklists
-#152. Méliès City Luxury Line included in 10.01% of all corp decklists
-#151. Project Ingatan included in 10.04% of all corp decklists
-#150. S-Dobrado included in 10.47% of all runner decklists
-#149. Next Big Thing included in 10.11% of all corp decklists
-#148. Shibboleth included in 10.54% of all runner decklists
-#147. Maintenance Access included in 10.58% of all runner decklists
-#146. Sang Kancil included in 10.65% of all runner decklists
-#145. Regenesis included in 10.34% of all corp decklists
-#144. Tranquility Home Grid included in 10.38% of all corp decklists
-#143. Moon Pool included in 10.38% of all corp decklists
-#142. Marjanah included in 10.82% of all runner decklists
-#141. René “Loup” Arcemont: Party Animal included in 10.82% of all runner decklists
-#140. Mitra Aman included in 10.41% of all corp decklists
-#139. Mayfly included in 10.89% of all runner decklists
-#138. Zahya Sadeghi: Versatile Smuggler included in 10.89% of all runner decklists
-#137. Wage Workers included in 10.51% of all corp decklists
-#136. Off the Books included in 10.54% of all corp decklists
-#135. Raindrops Cut Stone included in 11.03% of all runner decklists
-#134. Red Level Clearance included in 10.71% of all corp decklists
-#133. Doomscroll included in 10.77% of all corp decklists
-#132. Weyland Consortium: Built to Last included in 10.81% of all corp decklists
-#131. Sleipnir included in 10.84% of all corp decklists
-#130. Attini included in 10.87% of all corp decklists
-#129. Cloud Eater included in 10.87% of all corp decklists
-#128. Trickster Taka included in 11.3% of all runner decklists
-#127. The Powers That Be included in 10.87% of all corp decklists
-#126. Scrounge included in 11.34% of all runner decklists
-#125. Mavirus included in 11.07% of all corp decklists
-#124. Ablative Barrier included in 11.07% of all corp decklists
-#123. Empiricist included in 11.14% of all corp decklists
-#122. Bahia Bands included in 11.65% of all runner decklists
-#121. Ashen Epilogue included in 11.89% of all runner decklists
-#120. Buffer Drive included in 11.89% of all runner decklists
-#119. No Free Lunch included in 11.96% of all runner decklists
-#118. Superconducting Hub included in 11.61% of all corp decklists
-#117. Orbital Superiority included in 11.67% of all corp decklists
-#116. GAMEDRAGON™ Pro included in 12.37% of all runner decklists
-#115. Cohort Guidance Program included in 12.24% of all corp decklists
-#114. Mestnichestvo included in 12.3% of all corp decklists
-#113. La Costa Grid included in 12.44% of all corp decklists
-#112. Fencer Fueno included in 12.93% of all runner decklists
-#111. End of the Line included in 12.6% of all corp decklists
-#110. Clearinghouse included in 12.64% of all corp decklists
-#109. Maskirovka included in 12.64% of all corp decklists
-#108. Scatter Field included in 12.7% of all corp decklists
-#107. Syailendra included in 12.87% of all corp decklists
-#106. WAKE Implant v2A-JRJ included in 13.38% of all runner decklists
-#105. Bumi 1.0 included in 12.94% of all corp decklists
-#104. SDS Drone Deployment included in 12.97% of all corp decklists
-#103. Tithe included in 13.1% of all corp decklists
-#102. Oppo Research included in 13.2% of all corp decklists
-#101. Mystic Maemi included in 13.76% of all runner decklists
-#100. Pennyshaver included in 13.86% of all runner decklists
-#99. Environmental Testing included in 13.9% of all runner decklists
-#98. Anemone included in 13.47% of all corp decklists
-#97. Spec Work included in 14.0% of all runner decklists
-#96. Winchester included in 13.47% of all corp decklists
-#95. The Tungsten Tailor included in 14.17% of all runner decklists
-#94. Afshar included in 13.9% of all corp decklists
-#93. Conduit included in 14.55% of all runner decklists
-#92. Drafter included in 14.1% of all corp decklists
-#91. Tread Lightly included in 14.76% of all runner decklists
-#90. Event Horizon included in 14.23% of all corp decklists
-#89. Physarum Entangler included in 14.83% of all runner decklists
-#88. LilyPAD included in 14.86% of all runner decklists
-#87. Tree Line included in 14.4% of all corp decklists
-#86. Urtica Cipher included in 14.57% of all corp decklists
-#85. Stoneship Chart Room included in 15.28% of all runner decklists
-#84. Logjam included in 14.9% of all corp decklists
-#83. Eru Ayase-Pessoa included in 15.62% of all runner decklists
-#82. Funhouse included in 15.13% of all corp decklists
-#81. Pharos included in 15.13% of all corp decklists
-#80. Byte! included in 15.13% of all corp decklists
-#79. The Basalt Spire included in 15.16% of all corp decklists
-#78. Palisade included in 15.26% of all corp decklists
-#77. Boto included in 15.36% of all corp decklists
-#76. Humanoid Resources included in 15.56% of all corp decklists
-#75. Greenmail included in 15.6% of all corp decklists
-#74. “Knickknack” O’Brian included in 16.28% of all runner decklists
-#73. The Holo Man included in 15.76% of all corp decklists
-#72. Muse included in 17.25% of all runner decklists
-#71. Paladin Poemu included in 17.25% of all runner decklists
-#70. Hannah "Wheels" Pilintra included in 17.28% of all runner decklists
-#69. Verbal Plasticity included in 17.66% of all runner decklists
-#68. Biawak included in 16.99% of all corp decklists
-#67. Anthill Excavation Contract included in 17.19% of all corp decklists
-#66. Let Them Dream included in 17.29% of all corp decklists
-#65. Semak-samun included in 17.46% of all corp decklists
-#64. Strike Fund included in 18.67% of all runner decklists
-#63. Whitespace included in 18.02% of all corp decklists
-#62. Government Subsidy included in 18.26% of all corp decklists
-#61. Ping included in 18.26% of all corp decklists
-#60. Tomorrowʼs Headline included in 18.46% of all corp decklists
-#59. Self-modifying Code included in 19.32% of all runner decklists
-#58. Longevity Serum included in 18.62% of all corp decklists
-#57. Telework Contract included in 19.74% of all runner decklists
-#56. Gourmand included in 19.77% of all runner decklists
-#55. Anoetic Void included in 19.29% of all corp decklists
-#54. Hermes included in 20.22% of all runner decklists
-#53. Key Performance Indicators included in 19.52% of all corp decklists
-#52. Azimat included in 20.32% of all runner decklists
-#51. Fujii Asset Retrieval included in 19.72% of all corp decklists
-#50. Daily Casts included in 20.5% of all runner decklists
-#49. Open Market included in 20.57% of all runner decklists
-#48. Botulus included in 21.02% of all runner decklists
-#47. Manegarm Skunkworks included in 20.25% of all corp decklists
-#46. Propeller included in 21.26% of all runner decklists
-#45. The Class Act included in 21.53% of all runner decklists
-#44. Brân 1.0 included in 20.75% of all corp decklists
-#43. Buzzsaw included in 21.95% of all runner decklists
-#42. Charlotte Caçador included in 21.32% of all corp decklists
-#41. Curupira included in 22.4% of all runner decklists
-#40. Cezve included in 22.85% of all runner decklists
-#39. Coalescence included in 23.12% of all runner decklists
-#38. Tatu-Bola included in 22.71% of all corp decklists
-#37. Steelskin Scarring included in 23.89% of all runner decklists
-#36. Above the Law included in 23.08% of all corp decklists
-#35. Docklands Pass included in 24.02% of all runner decklists
-#34. Cupellation included in 24.06% of all runner decklists
-#33. Jailbreak included in 24.16% of all runner decklists
-#32. Boomerang included in 24.85% of all runner decklists
-#31. Bravado included in 25.2% of all runner decklists
-#30. Carmen included in 26.89% of all runner decklists
-#29. Creative Commission included in 27.07% of all runner decklists
-#28. Measured Response included in 26.27% of all corp decklists
-#27. Mutual Favor included in 27.45% of all runner decklists
-#26. Revolver included in 27.45% of all runner decklists
-#25. The Twinning included in 27.45% of all runner decklists
-#24. Unity included in 27.79% of all runner decklists
-#23. Leech included in 28.14% of all runner decklists
-#22. Seamless Launch included in 27.74% of all corp decklists
-#21. Rising Tide included in 29.24% of all runner decklists
-#20. Hansei Review included in 28.33% of all corp decklists
-#19. Predictive Planogram included in 28.33% of all corp decklists
-#18. Ritual included in 31.14% of all runner decklists
-#17. Clean Getaway included in 31.42% of all runner decklists
-#16. Overclock included in 31.46% of all runner decklists
-#15. Flyswatter included in 30.96% of all corp decklists
-#14. Offworld Office included in 31.86% of all corp decklists
-#13. Transfer of Wealth included in 33.6% of all runner decklists
-#12. Echelon included in 34.84% of all runner decklists
-#11. DZMZ Optimizer included in 35.43% of all runner decklists
-#10. Simulchip included in 35.88% of all runner decklists
-#9. Send a Message included in 34.75% of all corp decklists
-#8. Regolith Mining License included in 37.38% of all corp decklists
-#7. Fermenter included in 40.3% of all runner decklists
-#6. Pinhole Threading included in 42.38% of all runner decklists
-#5. Dr. Nuka Vrolyck included in 44.45% of all runner decklists
-#4. Petty Cash included in 45.46% of all corp decklists
-#3. Hedge Fund included in 78.55% of all corp decklists
-#2. Sure Gamble included in 86.9% of all runner decklists
-#1. Spin Doctor included in 89.86% of all corp decklists
+#220. realloc() included in 0.52% of all corp decklists
+#219. Editorial Division: Ad Nihilum included in 0.52% of all corp decklists
+#218. Beta Build included in 0.46% of all runner decklists
+#217. Retirement Plan included in 0.78% of all corp decklists
+#216. ezaM included in 0.78% of all corp decklists
+#215. The Catalyst: Convention Breaker included in 0.93% of all runner decklists
+#214. Hackerspace included in 1.16% of all runner decklists
+#213. Méliès U: Only the Brightest included in 1.31% of all corp decklists
+#212. Virtual Intelligence, P.I.: “You Can Call Me Vic” included in 1.16% of all runner decklists
+#211. Sipa included in 1.16% of all runner decklists
+#210. Shackleton Grid included in 1.31% of all corp decklists
+#209. Scapegoat included in 1.57% of all corp decklists
+#208. Caveat Emptor included in 1.57% of all corp decklists
+#207. Sell Out included in 1.39% of all runner decklists
+#206. Lampades included in 1.39% of all runner decklists
+#205. Rotary included in 1.62% of all runner decklists
+#204. Magistrate Revontulet included in 1.83% of all corp decklists
+#203. Nihilo Agent included in 1.83% of all corp decklists
+#202. Luana Campos included in 1.83% of all corp decklists
+#201. AU Co.: The Gold Standard in Clones included in 2.09% of all corp decklists
+#200. Borrowed Goods included in 1.86% of all runner decklists
+#199. Hype Machine included in 2.09% of all corp decklists
+#198. Perfect Recall included in 2.09% of all corp decklists
+#197. Read-Write Share included in 2.09% of all runner decklists
+#196. Esca included in 2.35% of all corp decklists
+#195. Underdome Irregulars included in 2.32% of all runner decklists
+#194. Dewi Subrotoputri: Pedagogical Dhalang included in 2.55% of all runner decklists
+#193. Vicsek included in 2.87% of all corp decklists
+#192. Witch Hunt included in 2.87% of all corp decklists
+#191. Poétrï Luxury Brands: All the Rage included in 3.13% of all corp decklists
+#190. Reanimation Protocol included in 3.13% of all corp decklists
+#189. Unleash included in 3.13% of all corp decklists
+#188. Word on the Street included in 2.78% of all runner decklists
+#187. Flagship included in 3.13% of all corp decklists
+#186. Lotus Haze included in 3.13% of all corp decklists
+#185. Knowledge Seeker included in 3.39% of all corp decklists
+#184. The Red Room included in 3.39% of all corp decklists
+#183. Paywall included in 3.39% of all corp decklists
+#182. Vulture Fund included in 3.66% of all corp decklists
+#181. Ansel 2.0 included in 3.92% of all corp decklists
+#180. Topan: Ormas Leader included in 3.48% of all runner decklists
+#179. Grubber included in 4.18% of all corp decklists
+#178. Synchrocyclotron included in 4.18% of all corp decklists
+#177. Lethe included in 4.18% of all corp decklists
+#176. The Syndicate: Profit over Principle included in 4.18% of all corp decklists
+#175. Chain Reaction included in 3.71% of all runner decklists
+#174. Bling included in 3.71% of all runner decklists
+#173. Nurse Hạnh included in 3.94% of all runner decklists
+#172. Vertigo included in 4.44% of all corp decklists
+#171. Aircheck included in 3.94% of all runner decklists
+#170. Synapse Global: Faster than Thought included in 4.7% of all corp decklists
+#169. Haas-Bioroid: Precision Design included in 4.7% of all corp decklists
+#168. Stick and Poke included in 4.41% of all runner decklists
+#167. Lionsmane included in 4.96% of all corp decklists
+#166. Hiram “0mission” Svensson: Shadow of the Past included in 4.41% of all runner decklists
+#165. LEO Construction: Labor Solutions included in 5.22% of all corp decklists
+#164. AMAZE Amusements included in 5.74% of all corp decklists
+#163. Cultivate included in 5.74% of all corp decklists
+#162. Corsair included in 5.1% of all runner decklists
+#161. Phật Gioan Baotixita included in 6.01% of all corp decklists
+#160. Flywheel included in 6.01% of all corp decklists
+#159. Luminal Transubstantiation included in 6.01% of all corp decklists
+#158. Methuselah included in 5.57% of all runner decklists
+#157. Reverb included in 6.27% of all corp decklists
+#156. Take a Dive included in 5.8% of all runner decklists
+#155. Stowaway included in 6.03% of all runner decklists
+#154. Carnivore included in 6.26% of all runner decklists
+#153. Nanomanagement included in 7.31% of all corp decklists
+#152. Aggressive Trendsetting included in 7.57% of all corp decklists
+#151. Ryō “Phoenix” Ōno: Out of the Ashes included in 6.96% of all runner decklists
+#150. Baker included in 6.96% of all runner decklists
+#149. Barry “Baz” Wong: Tri-Maf Veteran included in 6.96% of all runner decklists
+#148. Magdalene Keino-Chemutai: Cryptarchitect included in 7.19% of all runner decklists
+#147. The Zwicky Group: Invisible Hands included in 8.36% of all corp decklists
+#146. IP Enforcement included in 8.36% of all corp decklists
+#145. PT Untaian: Life's Building Blocks included in 8.62% of all corp decklists
+#144. Fransofia Ward included in 7.89% of all runner decklists
+#143. Tocsin included in 9.14% of all corp decklists
+#142. BANGUN: When Disaster Strikes included in 9.4% of all corp decklists
+#141. Madani included in 8.35% of all runner decklists
+#140. Flood the Market included in 9.4% of all corp decklists
+#139. Myōshu included in 9.4% of all corp decklists
+#138. Pantograph included in 8.58% of all runner decklists
+#137. Méliès City Luxury Line included in 9.66% of all corp decklists
+#136. René “Loup” Arcemont: Party Animal included in 8.82% of all runner decklists
+#135. Nebula Talent Management: Making Stars included in 10.18% of all corp decklists
+#134. Illumination included in 9.28% of all runner decklists
+#133. Touch-ups included in 10.7% of all corp decklists
+#132. Sleipnir included in 10.7% of all corp decklists
+#131. Public Trail included in 11.23% of all corp decklists
+#130. Plutus included in 11.23% of all corp decklists
+#129. Mycoweb included in 11.23% of all corp decklists
+#128. Hantu included in 10.21% of all runner decklists
+#127. Scatter Field included in 11.49% of all corp decklists
+#126. Neurospike included in 11.75% of all corp decklists
+#125. Cacophony included in 10.44% of all runner decklists
+#124. Detente included in 10.44% of all runner decklists
+#123. Shred included in 10.44% of all runner decklists
+#122. Kompromat included in 10.44% of all runner decklists
+#121. Touchstone included in 10.44% of all runner decklists
+#120. Ansel 1.0 included in 11.75% of all corp decklists
+#119. Project Ingatan included in 11.75% of all corp decklists
+#118. Proprionegation included in 12.27% of all corp decklists
+#117. Tailgate included in 10.9% of all runner decklists
+#116. Otto Campaign included in 12.27% of all corp decklists
+#115. Tāo Salonga: Telepresence Magician included in 11.14% of all runner decklists
+#114. Embedded Reporting included in 12.53% of all corp decklists
+#113. N-Pot included in 12.53% of all corp decklists
+#112. Charm Offensive included in 11.37% of all runner decklists
+#111. Devadatta Drone included in 11.37% of all runner decklists
+#110. Rent Rioters included in 11.37% of all runner decklists
+#109. Top-Down Solutions included in 12.79% of all corp decklists
+#108. Sacrifice Zone Expansion included in 13.05% of all corp decklists
+#107. Lamplighter included in 13.32% of all corp decklists
+#106. Bigger Picture included in 13.58% of all corp decklists
+#105. Next Big Thing included in 13.58% of all corp decklists
+#104. Event Horizon included in 13.58% of all corp decklists
+#103. Public Access Plaza included in 13.58% of all corp decklists
+#102. Idiosyncresis included in 14.1% of all corp decklists
+#101. “Knickknack” O’Brian included in 12.99% of all runner decklists
+#100. Chromatophores included in 12.99% of all runner decklists
+#99. Peer Review included in 15.14% of all corp decklists
+#98. Mahkota Langit Grid included in 15.14% of all corp decklists
+#97. Tomorrowʼs Headline included in 15.4% of all corp decklists
+#96. Sericulture Expansion included in 15.4% of all corp decklists
+#95. Sprint included in 15.67% of all corp decklists
+#94. Jinteki: Restoring Humanity included in 15.93% of all corp decklists
+#93. Mitra Aman included in 15.93% of all corp decklists
+#92. MuslihaT: Multifarious Marketeer included in 14.15% of all runner decklists
+#91. Malapert Data Vault included in 16.19% of all corp decklists
+#90. Cookbook included in 14.39% of all runner decklists
+#89. Humanoid Resources included in 16.19% of all corp decklists
+#88. Empiricist included in 16.45% of all corp decklists
+#87. Nico Campaign included in 16.45% of all corp decklists
+#86. Maglectric Rapid (748 Mod) included in 15.55% of all runner decklists
+#85. Diviner included in 18.02% of all corp decklists
+#84. Ballista included in 18.28% of all corp decklists
+#83. Byte! included in 18.54% of all corp decklists
+#82. The Tungsten Tailor included in 17.4% of all runner decklists
+#81. Off the Books included in 19.84% of all corp decklists
+#80. Doomscroll included in 19.84% of all corp decklists
+#79. Azimat included in 17.87% of all runner decklists
+#78. Kessleroid included in 20.89% of all corp decklists
+#77. Weyland Consortium: Built to Last included in 21.67% of all corp decklists
+#76. Anthill Excavation Contract included in 21.67% of all corp decklists
+#75. Ping included in 21.93% of all corp decklists
+#74. Gourmand included in 19.72% of all runner decklists
+#73. Funhouse included in 22.45% of all corp decklists
+#72. Greenmail included in 22.45% of all corp decklists
+#71. GAMEDRAGON™ Pro included in 19.95% of all runner decklists
+#70. Semak-samun included in 23.24% of all corp decklists
+#69. Key Performance Indicators included in 23.5% of all corp decklists
+#68. Longevity Serum included in 23.76% of all corp decklists
+#67. Bumi 1.0 included in 23.76% of all corp decklists
+#66. Measured Response included in 25.07% of all corp decklists
+#65. Biawak included in 25.33% of all corp decklists
+#64. T400 Memory Diamond included in 22.74% of all runner decklists
+#63. Syailendra included in 26.89% of all corp decklists
+#62. Manegarm Skunkworks included in 26.89% of all corp decklists
+#61. Superconducting Hub included in 27.15% of all corp decklists
+#60. Retribution included in 27.42% of all corp decklists
+#59. Wildcat Strike included in 24.36% of all runner decklists
+#58. Principia included in 24.83% of all runner decklists
+#57. Brân 1.0 included in 28.46% of all corp decklists
+#56. Botulus included in 25.52% of all runner decklists
+#55. VRcation included in 26.45% of all runner decklists
+#54. Anoetic Void included in 30.81% of all corp decklists
+#53. Karunā included in 31.07% of all corp decklists
+#52. Maintenance Access included in 28.07% of all runner decklists
+#51. Tranquilizer included in 28.54% of all runner decklists
+#50. Lie Low included in 28.54% of all runner decklists
+#49. Flyswatter included in 32.38% of all corp decklists
+#48. Sang Kancil included in 28.77% of all runner decklists
+#47. Transfer of Wealth included in 29.23% of all runner decklists
+#46. Hansei Review included in 33.16% of all corp decklists
+#45. Predictive Planogram included in 33.16% of all corp decklists
+#44. Government Subsidy included in 33.42% of all corp decklists
+#43. Clearinghouse included in 34.2% of all corp decklists
+#42. Side Hustle included in 30.63% of all runner decklists
+#41. Urtica Cipher included in 35.51% of all corp decklists
+#40. Above the Law included in 36.03% of all corp decklists
+#39. Open Market included in 32.02% of all runner decklists
+#38. Zahya Sadeghi: Versatile Smuggler included in 32.25% of all runner decklists
+#37. Buzzsaw included in 32.71% of all runner decklists
+#36. Tithe included in 37.34% of all corp decklists
+#35. Scrounge included in 33.18% of all runner decklists
+#34. Orbital Superiority included in 37.6% of all corp decklists
+#33. Smartware Distributor included in 33.87% of all runner decklists
+#32. Fermenter included in 34.11% of all runner decklists
+#31. Mayfly included in 34.57% of all runner decklists
+#30. Pharos included in 40.99% of all corp decklists
+#29. Red Team included in 36.66% of all runner decklists
+#28. Clean Getaway included in 36.89% of all runner decklists
+#27. Creative Commission included in 37.59% of all runner decklists
+#26. Echelon included in 37.82% of all runner decklists
+#25. Whitespace included in 43.34% of all corp decklists
+#24. Telework Contract included in 41.3% of all runner decklists
+#23. DZMZ Optimizer included in 43.39% of all runner decklists
+#22. Unity included in 43.62% of all runner decklists
+#21. Petty Cash included in 49.61% of all corp decklists
+#20. Palisade included in 50.13% of all corp decklists
+#19. Ritual included in 45.48% of all runner decklists
+#18. Conduit included in 45.71% of all runner decklists
+#17. Marjanah included in 50.58% of all runner decklists
+#16. Rising Tide included in 52.67% of all runner decklists
+#15. Offworld Office included in 61.62% of all corp decklists
+#14. Tread Lightly included in 56.15% of all runner decklists
+#13. Pennyshaver included in 57.54% of all runner decklists
+#12. Regolith Mining License included in 65.27% of all corp decklists
+#11. Send a Message included in 65.8% of all corp decklists
+#10. Mutual Favor included in 59.86% of all runner decklists
+#9. Carmen included in 60.56% of all runner decklists
+#8. Docklands Pass included in 64.04% of all runner decklists
+#7. Verbal Plasticity included in 64.04% of all runner decklists
+#6. Leech included in 65.43% of all runner decklists
+#5. Overclock included in 68.68% of all runner decklists
+#4. Jailbreak included in 70.77% of all runner decklists
+#3. Spin Doctor included in 83.29% of all corp decklists
+#2. Hedge Fund included in 92.95% of all corp decklists
+#1. Sure Gamble included in 97.45% of all runner decklists

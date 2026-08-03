@@ -3,6 +3,7 @@ from jsonquerylang import jsonquery
 import cards
 import sides
 import formats
+import factions
 import os
 import helpers
 
@@ -80,6 +81,20 @@ def split_by_side(decklists):
             split_decklists["runner"].append(decklist)
         elif is_side(decklist, "corp"):
             split_decklists["corp"].append(decklist)
+    
+    return split_decklists
+    
+def split_by_faction(decklists):
+    split_decklists = {}
+    FACTIONS = factions.get_factions()
+    
+    for faction in FACTIONS:
+        split_decklists[faction] = []
+    
+    for decklist in decklists:
+        for faction in FACTIONS:
+            if decklist["attributes"]["faction_id"] == faction:
+                split_decklists[faction].append(decklist)
     
     return split_decklists
 
