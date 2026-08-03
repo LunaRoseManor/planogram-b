@@ -39,4 +39,10 @@ def dump_json_to_file(DATA, PATH=""):
             json.dump(DATA, f)
     except:
         print("error:", PATH, "is an invalid file destination")
+
+def pretty_print_json(DATA):
+    output = json.dumps(DATA, indent=4)
     
+    print(output)
+    
+    return output
