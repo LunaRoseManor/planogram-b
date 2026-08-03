@@ -23,6 +23,7 @@ def get_inclusion_rates(decklists):
                 inclusion_rates.append({
                     "id": card_id,
                     "side_id": decklist["attributes"]["side_id"],
+                    "faction_id": decklist["attributes"]["faction_id"],
                     "quantity": 1
                 })
             else:

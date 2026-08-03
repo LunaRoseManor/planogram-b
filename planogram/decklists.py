@@ -66,6 +66,9 @@ def cache_legal_decklists():
 def is_side(decklist, side_id="corp"):
     return decklist["attributes"]["side_id"] == side_id
 
+def is_faction(decklist, faction_id="haas_bioroid"):
+    return decklist["attributes"]["faction_id"] == faction_id
+
 def split_by_side(decklists):
     split_decklists = {
         "corp": [],
