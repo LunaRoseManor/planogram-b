@@ -29,10 +29,10 @@ def list(chosen_decklists):
                 output = output + line
                 card_num -= 1
         
-    """
+    
     print(output)
     print("Operation played, searched", len(chosen_decklists["corp"]) + len(chosen_decklists["runner"]), "decks")
-    
+    """
     return output
 
 """

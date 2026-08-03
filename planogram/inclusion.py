@@ -1,25 +1,33 @@
 import json
 import helpers
+import cards
 
 def get_inclusion_rates(decklists):
     inclusion_rates = []
     
-    # Using a brute force approach, this loop creates a key for each unique card
-    # it finds in the provided decklists, then stores the quantity as an int
     for decklist in decklists:
         card_slots = decklist["attributes"]["card_slots"]
         
-        for card in card_slots:
-            if card not in inclusion_rates:
-                inclusion_rates[card] = {
-                    "side": decklist["attributes"]["side_id"],
+        for card_id in card_slots:
+            # Find if there is an entry with the specified card id already in the list
+            search_key = "id"
+            search_value = card_id
+            found = any(inclusion_rate.get(search_key) == search_value for inclusion_rate in inclusion_rates)
+            
+            # If an entry for that id doesn't already exist
+            if not found:
+                # Add it to the list with an assumed quantity of 1
+                inclusion_rates.append({
+                    "id": card_id,
+                    "side_id": decklist["attributes"]["side_id"],
                     "quantity": 1
-                }
+                })
             else:
-                inclusion_rates[card]["quantity"] += 1
+                search_result = next((rate for rate in inclusion_rates if rate["id"] == card_id), None)
+                search_result["quantity"] += 1
     
     # Sort by inclusion rate
-    inclusion_rates = dict(sorted(inclusion_rates, key=lambda item: item["quantity"]))
+    inclusion_rates = sorted(inclusion_rates, key=lambda item: item["quantity"])
     
     helpers.pretty_print_json(inclusion_rates)
     
