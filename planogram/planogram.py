@@ -136,6 +136,9 @@ def main():
         
         return
     
+    # I added this output because some operations are quite slow
+    print("Rezzing...")
+    
     # Otherwise, the output data should be modified based on program flags
     # The list of decklists searched starts with every single one being in the cache
     filtered_decklists = decklists.get_all_decklists()
