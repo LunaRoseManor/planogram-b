@@ -18,14 +18,20 @@ def list(chosen_decklists):
     
     # Determine the output by iterating over the calculated inclusion rates
     for rate in inclusion_rates:
-        line = '#' + str(card_num) + ". " + card_titles[rate["id"]] + " included in " + str(helpers.get_percentage_of_whole(rate["quantity"], len(split_decklists[rate["side_id"]]))) + "% of all " + rate["side_id"] + " decklists\n"
+        line = '#' + str(card_num) + ". " + card_titles[rate["id"]] + " included in " + str(helpers.get_percentage_of_whole(rate["quantity"], len(split_decklists[rate["side_id"]]))) + "% of all " + rate["side_id"] + " decklists"
+        line = line + " (" + str(helpers.get_percentage_of_whole(rate["quantity"], len(faction_decklists[rate["faction_id"]]))) + "% showing bias in " + rate["faction_id"] +")\n"
         output = output + line
         card_num -= 1
     
     # Print the total output to the screen
     print(output)
-    print("Operation played, searched", len(chosen_decklists), "total decks")
-    print("(" + str(len(split_decklists["corp"])), "corp,", len(split_decklists["runner"]), "runner)")
+    print("Operation played, searched", len(chosen_decklists), "total decks (" + str(len(split_decklists["corp"])), "corp,", len(split_decklists["runner"]), "runner)")
+    
+    # Optional faction breakdown
+    print("Faction breakdown:")
+    
+    for faction in faction_decklists:
+        print(faction, len(faction_decklists[faction]), "decks (", helpers.get_percentage_of_whole(len(chosen_decklists), len(faction_decklists[faction])), "%)")
     
     return output
 

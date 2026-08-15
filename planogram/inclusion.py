@@ -23,7 +23,7 @@ def get_inclusion_rates(decklists):
                 inclusion_rates.append({
                     "id": card_id,
                     "side_id": decklist["attributes"]["side_id"],
-                    "faction_id": decklist["attributes"]["faction_id"],
+                    "faction_id": cards.get_faction(card_id),
                     "quantity": 1
                 })
             else:
@@ -33,5 +33,6 @@ def get_inclusion_rates(decklists):
     
     # Sort by inclusion rate
     inclusion_rates = sorted(inclusion_rates, key=lambda item: item["quantity"])
+    #helpers.pretty_print_json(inclusion_rates)
     
     return inclusion_rates

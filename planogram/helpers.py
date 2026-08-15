@@ -15,7 +15,10 @@ def flatten_list(xss):
     return [x for xs in xss for x in xs]
 
 def get_percentage_of_whole(numerator, denominator):
-    return round(numerator / denominator * 100, 2)
+    if numerator < denominator:
+        return round(numerator / denominator * 100, 2)
+    else:
+        return round(denominator / numerator * 100, 2)
 
 def get_list_from_json_file(PATH=""):
     data = []

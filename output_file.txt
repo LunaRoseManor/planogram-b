@@ -1,220 +1,583 @@
-#220. realloc() included in 0.52% of all corp decklists
-#219. Editorial Division: Ad Nihilum included in 0.52% of all corp decklists
-#218. Beta Build included in 0.46% of all runner decklists
-#217. Retirement Plan included in 0.78% of all corp decklists
-#216. ezaM included in 0.78% of all corp decklists
-#215. The Catalyst: Convention Breaker included in 0.93% of all runner decklists
-#214. Hackerspace included in 1.16% of all runner decklists
-#213. Méliès U: Only the Brightest included in 1.31% of all corp decklists
-#212. Virtual Intelligence, P.I.: “You Can Call Me Vic” included in 1.16% of all runner decklists
-#211. Sipa included in 1.16% of all runner decklists
-#210. Shackleton Grid included in 1.31% of all corp decklists
-#209. Scapegoat included in 1.57% of all corp decklists
-#208. Caveat Emptor included in 1.57% of all corp decklists
-#207. Sell Out included in 1.39% of all runner decklists
-#206. Lampades included in 1.39% of all runner decklists
-#205. Rotary included in 1.62% of all runner decklists
-#204. Magistrate Revontulet included in 1.83% of all corp decklists
-#203. Nihilo Agent included in 1.83% of all corp decklists
-#202. Luana Campos included in 1.83% of all corp decklists
-#201. AU Co.: The Gold Standard in Clones included in 2.09% of all corp decklists
-#200. Borrowed Goods included in 1.86% of all runner decklists
-#199. Hype Machine included in 2.09% of all corp decklists
-#198. Perfect Recall included in 2.09% of all corp decklists
-#197. Read-Write Share included in 2.09% of all runner decklists
-#196. Esca included in 2.35% of all corp decklists
-#195. Underdome Irregulars included in 2.32% of all runner decklists
-#194. Dewi Subrotoputri: Pedagogical Dhalang included in 2.55% of all runner decklists
-#193. Vicsek included in 2.87% of all corp decklists
-#192. Witch Hunt included in 2.87% of all corp decklists
-#191. Poétrï Luxury Brands: All the Rage included in 3.13% of all corp decklists
-#190. Reanimation Protocol included in 3.13% of all corp decklists
-#189. Unleash included in 3.13% of all corp decklists
-#188. Word on the Street included in 2.78% of all runner decklists
-#187. Flagship included in 3.13% of all corp decklists
-#186. Lotus Haze included in 3.13% of all corp decklists
-#185. Knowledge Seeker included in 3.39% of all corp decklists
-#184. The Red Room included in 3.39% of all corp decklists
-#183. Paywall included in 3.39% of all corp decklists
-#182. Vulture Fund included in 3.66% of all corp decklists
-#181. Ansel 2.0 included in 3.92% of all corp decklists
-#180. Topan: Ormas Leader included in 3.48% of all runner decklists
-#179. Grubber included in 4.18% of all corp decklists
-#178. Synchrocyclotron included in 4.18% of all corp decklists
-#177. Lethe included in 4.18% of all corp decklists
-#176. The Syndicate: Profit over Principle included in 4.18% of all corp decklists
-#175. Chain Reaction included in 3.71% of all runner decklists
-#174. Bling included in 3.71% of all runner decklists
-#173. Nurse Hạnh included in 3.94% of all runner decklists
-#172. Vertigo included in 4.44% of all corp decklists
-#171. Aircheck included in 3.94% of all runner decklists
-#170. Synapse Global: Faster than Thought included in 4.7% of all corp decklists
-#169. Haas-Bioroid: Precision Design included in 4.7% of all corp decklists
-#168. Stick and Poke included in 4.41% of all runner decklists
-#167. Lionsmane included in 4.96% of all corp decklists
-#166. Hiram “0mission” Svensson: Shadow of the Past included in 4.41% of all runner decklists
-#165. LEO Construction: Labor Solutions included in 5.22% of all corp decklists
-#164. AMAZE Amusements included in 5.74% of all corp decklists
-#163. Cultivate included in 5.74% of all corp decklists
-#162. Corsair included in 5.1% of all runner decklists
-#161. Phật Gioan Baotixita included in 6.01% of all corp decklists
-#160. Flywheel included in 6.01% of all corp decklists
-#159. Luminal Transubstantiation included in 6.01% of all corp decklists
-#158. Methuselah included in 5.57% of all runner decklists
-#157. Reverb included in 6.27% of all corp decklists
-#156. Take a Dive included in 5.8% of all runner decklists
-#155. Stowaway included in 6.03% of all runner decklists
-#154. Carnivore included in 6.26% of all runner decklists
-#153. Nanomanagement included in 7.31% of all corp decklists
-#152. Aggressive Trendsetting included in 7.57% of all corp decklists
-#151. Ryō “Phoenix” Ōno: Out of the Ashes included in 6.96% of all runner decklists
-#150. Baker included in 6.96% of all runner decklists
-#149. Barry “Baz” Wong: Tri-Maf Veteran included in 6.96% of all runner decklists
-#148. Magdalene Keino-Chemutai: Cryptarchitect included in 7.19% of all runner decklists
-#147. The Zwicky Group: Invisible Hands included in 8.36% of all corp decklists
-#146. IP Enforcement included in 8.36% of all corp decklists
-#145. PT Untaian: Life's Building Blocks included in 8.62% of all corp decklists
-#144. Fransofia Ward included in 7.89% of all runner decklists
-#143. Tocsin included in 9.14% of all corp decklists
-#142. BANGUN: When Disaster Strikes included in 9.4% of all corp decklists
-#141. Madani included in 8.35% of all runner decklists
-#140. Flood the Market included in 9.4% of all corp decklists
-#139. Myōshu included in 9.4% of all corp decklists
-#138. Pantograph included in 8.58% of all runner decklists
-#137. Méliès City Luxury Line included in 9.66% of all corp decklists
-#136. René “Loup” Arcemont: Party Animal included in 8.82% of all runner decklists
-#135. Nebula Talent Management: Making Stars included in 10.18% of all corp decklists
-#134. Illumination included in 9.28% of all runner decklists
-#133. Touch-ups included in 10.7% of all corp decklists
-#132. Sleipnir included in 10.7% of all corp decklists
-#131. Public Trail included in 11.23% of all corp decklists
-#130. Plutus included in 11.23% of all corp decklists
-#129. Mycoweb included in 11.23% of all corp decklists
-#128. Hantu included in 10.21% of all runner decklists
-#127. Scatter Field included in 11.49% of all corp decklists
-#126. Neurospike included in 11.75% of all corp decklists
-#125. Cacophony included in 10.44% of all runner decklists
-#124. Detente included in 10.44% of all runner decklists
-#123. Shred included in 10.44% of all runner decklists
-#122. Kompromat included in 10.44% of all runner decklists
-#121. Touchstone included in 10.44% of all runner decklists
-#120. Ansel 1.0 included in 11.75% of all corp decklists
-#119. Project Ingatan included in 11.75% of all corp decklists
-#118. Proprionegation included in 12.27% of all corp decklists
-#117. Tailgate included in 10.9% of all runner decklists
-#116. Otto Campaign included in 12.27% of all corp decklists
-#115. Tāo Salonga: Telepresence Magician included in 11.14% of all runner decklists
-#114. Embedded Reporting included in 12.53% of all corp decklists
-#113. N-Pot included in 12.53% of all corp decklists
-#112. Charm Offensive included in 11.37% of all runner decklists
-#111. Devadatta Drone included in 11.37% of all runner decklists
-#110. Rent Rioters included in 11.37% of all runner decklists
-#109. Top-Down Solutions included in 12.79% of all corp decklists
-#108. Sacrifice Zone Expansion included in 13.05% of all corp decklists
-#107. Lamplighter included in 13.32% of all corp decklists
-#106. Bigger Picture included in 13.58% of all corp decklists
-#105. Next Big Thing included in 13.58% of all corp decklists
-#104. Event Horizon included in 13.58% of all corp decklists
-#103. Public Access Plaza included in 13.58% of all corp decklists
-#102. Idiosyncresis included in 14.1% of all corp decklists
-#101. “Knickknack” O’Brian included in 12.99% of all runner decklists
-#100. Chromatophores included in 12.99% of all runner decklists
-#99. Peer Review included in 15.14% of all corp decklists
-#98. Mahkota Langit Grid included in 15.14% of all corp decklists
-#97. Tomorrowʼs Headline included in 15.4% of all corp decklists
-#96. Sericulture Expansion included in 15.4% of all corp decklists
-#95. Sprint included in 15.67% of all corp decklists
-#94. Jinteki: Restoring Humanity included in 15.93% of all corp decklists
-#93. Mitra Aman included in 15.93% of all corp decklists
-#92. MuslihaT: Multifarious Marketeer included in 14.15% of all runner decklists
-#91. Malapert Data Vault included in 16.19% of all corp decklists
-#90. Cookbook included in 14.39% of all runner decklists
-#89. Humanoid Resources included in 16.19% of all corp decklists
-#88. Empiricist included in 16.45% of all corp decklists
-#87. Nico Campaign included in 16.45% of all corp decklists
-#86. Maglectric Rapid (748 Mod) included in 15.55% of all runner decklists
-#85. Diviner included in 18.02% of all corp decklists
-#84. Ballista included in 18.28% of all corp decklists
-#83. Byte! included in 18.54% of all corp decklists
-#82. The Tungsten Tailor included in 17.4% of all runner decklists
-#81. Off the Books included in 19.84% of all corp decklists
-#80. Doomscroll included in 19.84% of all corp decklists
-#79. Azimat included in 17.87% of all runner decklists
-#78. Kessleroid included in 20.89% of all corp decklists
-#77. Weyland Consortium: Built to Last included in 21.67% of all corp decklists
-#76. Anthill Excavation Contract included in 21.67% of all corp decklists
-#75. Ping included in 21.93% of all corp decklists
-#74. Gourmand included in 19.72% of all runner decklists
-#73. Funhouse included in 22.45% of all corp decklists
-#72. Greenmail included in 22.45% of all corp decklists
-#71. GAMEDRAGON™ Pro included in 19.95% of all runner decklists
-#70. Semak-samun included in 23.24% of all corp decklists
-#69. Key Performance Indicators included in 23.5% of all corp decklists
-#68. Longevity Serum included in 23.76% of all corp decklists
-#67. Bumi 1.0 included in 23.76% of all corp decklists
-#66. Measured Response included in 25.07% of all corp decklists
-#65. Biawak included in 25.33% of all corp decklists
-#64. T400 Memory Diamond included in 22.74% of all runner decklists
-#63. Syailendra included in 26.89% of all corp decklists
-#62. Manegarm Skunkworks included in 26.89% of all corp decklists
-#61. Superconducting Hub included in 27.15% of all corp decklists
-#60. Retribution included in 27.42% of all corp decklists
-#59. Wildcat Strike included in 24.36% of all runner decklists
-#58. Principia included in 24.83% of all runner decklists
-#57. Brân 1.0 included in 28.46% of all corp decklists
-#56. Botulus included in 25.52% of all runner decklists
-#55. VRcation included in 26.45% of all runner decklists
-#54. Anoetic Void included in 30.81% of all corp decklists
-#53. Karunā included in 31.07% of all corp decklists
-#52. Maintenance Access included in 28.07% of all runner decklists
-#51. Tranquilizer included in 28.54% of all runner decklists
-#50. Lie Low included in 28.54% of all runner decklists
-#49. Flyswatter included in 32.38% of all corp decklists
-#48. Sang Kancil included in 28.77% of all runner decklists
-#47. Transfer of Wealth included in 29.23% of all runner decklists
-#46. Hansei Review included in 33.16% of all corp decklists
-#45. Predictive Planogram included in 33.16% of all corp decklists
-#44. Government Subsidy included in 33.42% of all corp decklists
-#43. Clearinghouse included in 34.2% of all corp decklists
-#42. Side Hustle included in 30.63% of all runner decklists
-#41. Urtica Cipher included in 35.51% of all corp decklists
-#40. Above the Law included in 36.03% of all corp decklists
-#39. Open Market included in 32.02% of all runner decklists
-#38. Zahya Sadeghi: Versatile Smuggler included in 32.25% of all runner decklists
-#37. Buzzsaw included in 32.71% of all runner decklists
-#36. Tithe included in 37.34% of all corp decklists
-#35. Scrounge included in 33.18% of all runner decklists
-#34. Orbital Superiority included in 37.6% of all corp decklists
-#33. Smartware Distributor included in 33.87% of all runner decklists
-#32. Fermenter included in 34.11% of all runner decklists
-#31. Mayfly included in 34.57% of all runner decklists
-#30. Pharos included in 40.99% of all corp decklists
-#29. Red Team included in 36.66% of all runner decklists
-#28. Clean Getaway included in 36.89% of all runner decklists
-#27. Creative Commission included in 37.59% of all runner decklists
-#26. Echelon included in 37.82% of all runner decklists
-#25. Whitespace included in 43.34% of all corp decklists
-#24. Telework Contract included in 41.3% of all runner decklists
-#23. DZMZ Optimizer included in 43.39% of all runner decklists
-#22. Unity included in 43.62% of all runner decklists
-#21. Petty Cash included in 49.61% of all corp decklists
-#20. Palisade included in 50.13% of all corp decklists
-#19. Ritual included in 45.48% of all runner decklists
-#18. Conduit included in 45.71% of all runner decklists
-#17. Marjanah included in 50.58% of all runner decklists
-#16. Rising Tide included in 52.67% of all runner decklists
-#15. Offworld Office included in 61.62% of all corp decklists
-#14. Tread Lightly included in 56.15% of all runner decklists
-#13. Pennyshaver included in 57.54% of all runner decklists
-#12. Regolith Mining License included in 65.27% of all corp decklists
-#11. Send a Message included in 65.8% of all corp decklists
-#10. Mutual Favor included in 59.86% of all runner decklists
-#9. Carmen included in 60.56% of all runner decklists
-#8. Docklands Pass included in 64.04% of all runner decklists
-#7. Verbal Plasticity included in 64.04% of all runner decklists
-#6. Leech included in 65.43% of all runner decklists
-#5. Overclock included in 68.68% of all runner decklists
-#4. Jailbreak included in 70.77% of all runner decklists
-#3. Spin Doctor included in 83.29% of all corp decklists
-#2. Hedge Fund included in 92.95% of all corp decklists
-#1. Sure Gamble included in 97.45% of all runner decklists
+#583. Letheia Nisei included in 0.07% of all corp decklists (0.23% showing bias in jinteki)
+#582. Storgotic Resonator included in 0.1% of all corp decklists (0.35% showing bias in jinteki)
+#581. Sorocaban Blade included in 0.1% of all corp decklists (0.51% showing bias in haas_bioroid)
+#580. The Catalyst: Convention Breaker included in 0.14% of all runner decklists (21.05% showing bias in neutral_runner)
+#579. Complete Image included in 0.13% of all corp decklists (0.47% showing bias in jinteki)
+#578. CSR Campaign included in 0.17% of all corp decklists (9.43% showing bias in neutral_corp)
+#577. Utae included in 0.17% of all runner decklists (0.62% showing bias in anarch)
+#576. Kimberlite Field included in 0.2% of all corp decklists (0.64% showing bias in weyland_consortium)
+#575. Cold Site Server included in 0.2% of all corp decklists (1.01% showing bias in haas_bioroid)
+#574. Focus Group included in 0.2% of all corp decklists (1.05% showing bias in nbn)
+#573. Congratulations! included in 0.23% of all corp decklists (1.22% showing bias in nbn)
+#572. Hyoubu Precog Manifold included in 0.23% of all corp decklists (0.82% showing bias in jinteki)
+#571. The Back included in 0.31% of all runner decklists (0.84% showing bias in criminal)
+#570. Hyoubu Institute: Absolute Clarity included in 0.3% of all corp decklists (1.06% showing bias in jinteki)
+#569. Meeting of Minds included in 0.35% of all runner decklists (0.94% showing bias in criminal)
+#568. Vera Ivanovna Shuyskaya included in 0.33% of all corp decklists (1.75% showing bias in nbn)
+#567. Brasília Government Grid included in 0.37% of all corp decklists (1.85% showing bias in haas_bioroid)
+#566. Bring Them Home included in 0.37% of all corp decklists (1.29% showing bias in jinteki)
+#565. Trieste Model Bioroids included in 0.37% of all corp decklists (1.85% showing bias in haas_bioroid)
+#564. Mu Safecracker included in 0.38% of all runner decklists (1.03% showing bias in criminal)
+#563. Prāna Condenser included in 0.4% of all corp decklists (1.41% showing bias in jinteki)
+#562. Odore included in 0.41% of all runner decklists (1.5% showing bias in anarch)
+#561. Climactic Showdown included in 0.41% of all runner decklists (1.5% showing bias in anarch)
+#560. Cordyceps included in 0.45% of all runner decklists (1.29% showing bias in shaper)
+#559. Virtuoso included in 0.45% of all runner decklists (1.22% showing bias in criminal)
+#558. Lightning Laboratory included in 0.43% of all corp decklists (2.19% showing bias in haas_bioroid)
+#557. Tunnel Vision included in 0.48% of all runner decklists (1.31% showing bias in criminal)
+#556. ezaM included in 0.47% of all corp decklists (1.64% showing bias in jinteki)
+#555. Isolation included in 0.48% of all runner decklists (1.75% showing bias in anarch)
+#554. Hackerspace included in 0.52% of all runner decklists (1.87% showing bias in anarch)
+#553. Nova Initiumia: Catalyst & Impetus included in 0.52% of all runner decklists (78.95% showing bias in neutral_runner)
+#552. Ampère: Cybernetics For Anyone included in 0.5% of all corp decklists (28.3% showing bias in neutral_corp)
+#551. Superdeep Borehole included in 0.5% of all corp decklists (1.61% showing bias in weyland_consortium)
+#550. Lampades included in 0.52% of all runner decklists (1.87% showing bias in anarch)
+#549. Vaporframe Fabricator included in 0.5% of all corp decklists (2.53% showing bias in haas_bioroid)
+#548. Active Policing included in 0.53% of all corp decklists (2.69% showing bias in haas_bioroid)
+#547. Pauleʼs Café included in 0.55% of all runner decklists (1.59% showing bias in shaper)
+#546. Lycian Multi-Munition included in 0.57% of all corp decklists (2.86% showing bias in haas_bioroid)
+#545. Public Health Portal included in 0.57% of all corp decklists (1.99% showing bias in jinteki)
+#544. Transport Monopoly included in 0.57% of all corp decklists (1.82% showing bias in weyland_consortium)
+#543. Secure and Protect included in 0.57% of all corp decklists (1.82% showing bias in weyland_consortium)
+#542. Tremolo included in 0.59% of all runner decklists (1.59% showing bias in criminal)
+#541. Reduced Service included in 0.6% of all corp decklists (1.93% showing bias in weyland_consortium)
+#540. Retirement Plan included in 0.6% of all corp decklists (3.03% showing bias in haas_bioroid)
+#539. Konjin included in 0.6% of all corp decklists (2.11% showing bias in jinteki)
+#538. Roughneck Repair Squad included in 0.6% of all corp decklists (1.93% showing bias in weyland_consortium)
+#537. NEXT Activation Command included in 0.63% of all corp decklists (3.2% showing bias in haas_bioroid)
+#536. Capybara included in 0.66% of all runner decklists (1.78% showing bias in criminal)
+#535. Anvil included in 0.67% of all corp decklists (2.14% showing bias in weyland_consortium)
+#534. Klevetnik included in 0.67% of all corp decklists (3.49% showing bias in nbn)
+#533. Tiered Subscription included in 0.7% of all corp decklists (3.66% showing bias in nbn)
+#532. Hype Machine included in 0.7% of all corp decklists (3.66% showing bias in nbn)
+#531. Refuge Campaign included in 0.73% of all corp decklists (3.7% showing bias in haas_bioroid)
+#530. Makler included in 0.76% of all runner decklists (2.06% showing bias in criminal)
+#529. Chain Reaction included in 0.76% of all runner decklists (2.74% showing bias in anarch)
+#528. Nanuq included in 0.76% of all runner decklists (2.19% showing bias in shaper)
+#527. The Wizard’s Chest included in 0.8% of all runner decklists (2.87% showing bias in anarch)
+#526. Chrysopoeian Skimming included in 0.8% of all runner decklists (2.15% showing bias in criminal)
+#525. Loot Box included in 0.76% of all corp decklists (4.01% showing bias in nbn)
+#524. Ivik included in 0.76% of all corp decklists (2.7% showing bias in jinteki)
+#523. Sipa included in 0.8% of all runner decklists (2.29% showing bias in shaper)
+#522. Thunderbolt Armaments: Peace Through Power included in 0.8% of all corp decklists (4.04% showing bias in haas_bioroid)
+#521. Increased Drop Rates included in 0.86% of all corp decklists (4.54% showing bias in nbn)
+#520. Light the Fire! included in 0.9% of all runner decklists (3.24% showing bias in anarch)
+#519. Digital Rights Management included in 0.86% of all corp decklists (4.54% showing bias in nbn)
+#518. Supercorridor included in 0.93% of all runner decklists (2.69% showing bias in shaper)
+#517. Stegodon MK IV included in 0.96% of all corp decklists (4.88% showing bias in haas_bioroid)
+#516. Yakov Erikovich Avdakov included in 0.96% of all corp decklists (3.1% showing bias in weyland_consortium)
+#515. Living Mural included in 1.0% of all runner decklists (2.89% showing bias in shaper)
+#514. Amelia Earhart included in 1.0% of all runner decklists (2.72% showing bias in criminal)
+#513. Flower Sermon included in 1.0% of all corp decklists (3.52% showing bias in jinteki)
+#512. SYNC Rerouting included in 1.0% of all corp decklists (5.24% showing bias in nbn)
+#511. Perfect Recall included in 1.03% of all corp decklists (5.22% showing bias in haas_bioroid)
+#510. Demolisher included in 1.07% of all runner decklists (3.87% showing bias in anarch)
+#509. In the Groove included in 1.11% of all runner decklists (3.19% showing bias in shaper)
+#508. Trust Operation included in 1.06% of all corp decklists (3.43% showing bias in weyland_consortium)
+#507. Masterwork (v37) included in 1.14% of all runner decklists (3.09% showing bias in criminal)
+#506. Word on the Street included in 1.14% of all runner decklists (57.58% showing bias in neutral_runner)
+#505. Mutually Assured Destruction included in 1.16% of all corp decklists (3.75% showing bias in weyland_consortium)
+#504. Beta Build included in 1.21% of all runner decklists (3.49% showing bias in shaper)
+#503. Argus Crackdown included in 1.2% of all corp decklists (3.85% showing bias in weyland_consortium)
+#502. MirrorMorph: Endless Iteration included in 1.23% of all corp decklists (6.23% showing bias in haas_bioroid)
+#501. Cybertrooper Talut included in 1.28% of all runner decklists (3.69% showing bias in shaper)
+#500. Kakurenbo included in 1.26% of all corp decklists (4.45% showing bias in jinteki)
+#499. Stargate included in 1.31% of all runner decklists (4.74% showing bias in anarch)
+#498. Joy Ride included in 1.31% of all runner decklists (3.78% showing bias in shaper)
+#497. The Syndicate: Profit over Principle included in 1.26% of all corp decklists (71.7% showing bias in neutral_corp)
+#496. Zenit Chip JZ-2MJ included in 1.35% of all runner decklists (3.65% showing bias in criminal)
+#495. Always Have a Backup Plan included in 1.38% of all runner decklists (3.75% showing bias in criminal)
+#494. Concerto included in 1.38% of all runner decklists (3.75% showing bias in criminal)
+#493. Backstitching included in 1.42% of all runner decklists (3.84% showing bias in criminal)
+#492. Issuaq Adaptics: Sustaining Diversity included in 1.4% of all corp decklists (4.92% showing bias in jinteki)
+#491. Daily Quest included in 1.4% of all corp decklists (7.33% showing bias in nbn)
+#490. Janaína “JK” Dumont Kindelán included in 1.43% of all corp decklists (7.5% showing bias in nbn)
+#489. Nanoetching Matrix included in 1.43% of all corp decklists (7.24% showing bias in haas_bioroid)
+#488. Rime included in 1.43% of all corp decklists (81.13% showing bias in neutral_corp)
+#487. Nga included in 1.49% of all runner decklists (5.36% showing bias in anarch)
+#486. Num included in 1.49% of all runner decklists (5.36% showing bias in anarch)
+#485. Umbrella included in 1.52% of all runner decklists (4.38% showing bias in shaper)
+#484. The Nihilist included in 1.52% of all runner decklists (5.49% showing bias in anarch)
+#483. Lucky Charm included in 1.52% of all runner decklists (4.12% showing bias in criminal)
+#482. Jeitinho included in 1.52% of all runner decklists (4.12% showing bias in criminal)
+#481. Game Over included in 1.46% of all corp decklists (7.68% showing bias in nbn)
+#480. Stick and Poke included in 1.56% of all runner decklists (5.61% showing bias in anarch)
+#479. Info Bounty included in 1.56% of all runner decklists (4.21% showing bias in criminal)
+#478. Vicsek included in 1.5% of all corp decklists (5.28% showing bias in jinteki)
+#477. Khusyuk included in 1.59% of all runner decklists (4.58% showing bias in shaper)
+#476. Vertigo included in 1.53% of all corp decklists (7.74% showing bias in haas_bioroid)
+#475. GameNET: Where Dreams are Real included in 1.53% of all corp decklists (8.03% showing bias in nbn)
+#474. Asmund Pudlat included in 1.66% of all runner decklists (4.49% showing bias in criminal)
+#473. realloc() included in 1.6% of all corp decklists (8.08% showing bias in haas_bioroid)
+#472. PAN-Weave included in 1.66% of all runner decklists (4.49% showing bias in criminal)
+#471. Calvin B4L3Y included in 1.63% of all corp decklists (8.25% showing bias in haas_bioroid)
+#470. Midnight-3 Arcology included in 1.66% of all corp decklists (8.42% showing bias in haas_bioroid)
+#469. Heliamphora included in 1.73% of all runner decklists (6.23% showing bias in anarch)
+#468. “Baklan” Bochkin included in 1.73% of all runner decklists (4.68% showing bias in criminal)
+#467. Mitosis included in 1.7% of all corp decklists (5.98% showing bias in jinteki)
+#466. Hearts and Minds included in 1.7% of all corp decklists (5.46% showing bias in weyland_consortium)
+#465. Methuselah included in 1.76% of all runner decklists (5.08% showing bias in shaper)
+#464. Ansel 2.0 included in 1.73% of all corp decklists (8.75% showing bias in haas_bioroid)
+#463. ZATO City Grid included in 1.73% of all corp decklists (5.57% showing bias in weyland_consortium)
+#462. Reverb included in 1.73% of all corp decklists (8.75% showing bias in haas_bioroid)
+#461. Shackleton Grid included in 1.76% of all corp decklists (5.67% showing bias in weyland_consortium)
+#460. Borrowed Goods included in 1.83% of all runner decklists (4.96% showing bias in criminal)
+#459. Carnivore included in 1.83% of all runner decklists (6.61% showing bias in anarch)
+#458. Hypoxia included in 1.76% of all corp decklists (8.92% showing bias in haas_bioroid)
+#457. Project Yagi-Uda included in 1.8% of all corp decklists (6.33% showing bias in jinteki)
+#456. Boi-tatá included in 1.87% of all runner decklists (6.73% showing bias in anarch)
+#455. Ubiquitous Vig included in 1.83% of all corp decklists (9.6% showing bias in nbn)
+#454. Trebuchet included in 1.83% of all corp decklists (5.89% showing bias in weyland_consortium)
+#453. Simulation Reset included in 1.83% of all corp decklists (6.45% showing bias in jinteki)
+#452. Scapegoat included in 1.83% of all corp decklists (9.6% showing bias in nbn)
+#451. Spark of Inspiration included in 1.9% of all runner decklists (5.48% showing bias in shaper)
+#450. Az McCaffrey: Mechanical Prodigy included in 1.94% of all runner decklists (5.24% showing bias in criminal)
+#449. Luana Campos included in 1.86% of all corp decklists (6.0% showing bias in weyland_consortium)
+#448. Pravdivost Consulting: Political Solutions included in 1.9% of all corp decklists (9.95% showing bias in nbn)
+#447. Flux Capacitor included in 1.97% of all runner decklists (5.68% showing bias in shaper)
+#446. Rotary included in 1.97% of all runner decklists (5.34% showing bias in criminal)
+#445. Echo included in 1.9% of all corp decklists (9.6% showing bias in haas_bioroid)
+#444. Esca included in 1.9% of all corp decklists (6.68% showing bias in jinteki)
+#443. Regulatory Capture included in 1.9% of all corp decklists (6.1% showing bias in weyland_consortium)
+#442. Take a Dive included in 2.0% of all runner decklists (7.23% showing bias in anarch)
+#441. NAPD Cordon included in 1.93% of all corp decklists (91.38% showing bias in neutral_corp)
+#440. Abaasy included in 2.04% of all runner decklists (7.36% showing bias in anarch)
+#439. Caveat Emptor included in 1.96% of all corp decklists (9.93% showing bias in haas_bioroid)
+#438. Sell Out included in 2.07% of all runner decklists (5.62% showing bias in criminal)
+#437. Wave included in 2.0% of all corp decklists (10.1% showing bias in haas_bioroid)
+#436. The Artist included in 2.07% of all runner decklists (5.98% showing bias in shaper)
+#435. Juli Moreira Lee included in 2.07% of all runner decklists (5.62% showing bias in criminal)
+#434. Penrose included in 2.07% of all runner decklists (5.98% showing bias in shaper)
+#433. Distributed Tracing included in 2.03% of all corp decklists (10.27% showing bias in haas_bioroid)
+#432. Front Company included in 2.06% of all corp decklists (7.27% showing bias in jinteki)
+#431. Aircheck included in 2.18% of all runner decklists (6.27% showing bias in shaper)
+#430. Corsair included in 2.18% of all runner decklists (7.86% showing bias in anarch)
+#429. Hiram “0mission” Svensson: Shadow of the Past included in 2.18% of all runner decklists (6.27% showing bias in shaper)
+#428. Read-Write Share included in 2.25% of all runner decklists (6.47% showing bias in shaper)
+#427. Paywall included in 2.19% of all corp decklists (11.52% showing bias in nbn)
+#426. Lobisomem included in 2.32% of all runner decklists (6.67% showing bias in shaper)
+#425. Monkeywrench included in 2.32% of all runner decklists (8.35% showing bias in anarch)
+#424. Direct Access included in 2.35% of all runner decklists (27.94% showing bias in neutral_runner)
+#423. Spree included in 2.35% of all runner decklists (6.77% showing bias in shaper)
+#422. Underdome Irregulars included in 2.35% of all runner decklists (6.37% showing bias in criminal)
+#421. Bloop included in 2.29% of all corp decklists (11.62% showing bias in haas_bioroid)
+#420. Envelopment included in 2.29% of all corp decklists (7.39% showing bias in weyland_consortium)
+#419. Blueberry!™ Diesel included in 2.39% of all runner decklists (6.46% showing bias in criminal)
+#418. Colossus included in 2.33% of all corp decklists (7.49% showing bias in weyland_consortium)
+#417. Scapenet included in 2.33% of all corp decklists (11.78% showing bias in haas_bioroid)
+#416. Avgustina Ivanovskaya included in 2.45% of all runner decklists (8.85% showing bias in anarch)
+#415. Ob Superheavy Logistics: Extract. Export. Excel. included in 2.36% of all corp decklists (7.6% showing bias in weyland_consortium)
+#414. Divested Trust included in 2.39% of all corp decklists (7.71% showing bias in weyland_consortium)
+#413. Sandstone included in 2.39% of all corp decklists (7.71% showing bias in weyland_consortium)
+#412. Nurse Hạnh included in 2.52% of all runner decklists (9.1% showing bias in anarch)
+#411. Penumbral Toolkit included in 2.52% of all runner decklists (6.84% showing bias in criminal)
+#410. Laser Pointer included in 2.52% of all runner decklists (6.84% showing bias in criminal)
+#409. Armed Asset Protection included in 2.43% of all corp decklists (7.82% showing bias in weyland_consortium)
+#408. Seraph included in 2.46% of all corp decklists (12.91% showing bias in nbn)
+#407. Mr. Hendrik included in 2.46% of all corp decklists (12.46% showing bias in haas_bioroid)
+#406. Capacitor included in 2.46% of all corp decklists (12.91% showing bias in nbn)
+#405. Vasilisa included in 2.49% of all corp decklists (13.09% showing bias in nbn)
+#404. Earth Station: SEA Headquarters included in 2.49% of all corp decklists (8.03% showing bias in weyland_consortium)
+#403. Bass CH1R180G4 included in 2.49% of all corp decklists (12.63% showing bias in haas_bioroid)
+#402. Kingmaking included in 2.49% of all corp decklists (13.09% showing bias in nbn)
+#401. Backroom Machinations included in 2.53% of all corp decklists (13.26% showing bias in nbn)
+#400. Detente included in 2.63% of all runner decklists (7.12% showing bias in criminal)
+#399. Eye for an Eye included in 2.66% of all runner decklists (9.6% showing bias in anarch)
+#398. The Red Room included in 2.63% of all corp decklists (9.26% showing bias in jinteki)
+#397. Cerebral Overwriter included in 2.63% of all corp decklists (13.3% showing bias in haas_bioroid)
+#396. Pulse included in 2.66% of all corp decklists (13.47% showing bias in haas_bioroid)
+#395. Hyperbaric included in 2.8% of all runner decklists (8.07% showing bias in shaper)
+#394. Shred included in 2.8% of all runner decklists (10.1% showing bias in anarch)
+#393. Lethe included in 2.69% of all corp decklists (14.14% showing bias in nbn)
+#392. Megaprix Qualifier included in 2.73% of all corp decklists (13.8% showing bias in haas_bioroid)
+#391. Beatriz Friere Gonzalez included in 2.9% of all runner decklists (8.37% showing bias in shaper)
+#390. Hákarl 1.0 included in 2.83% of all corp decklists (14.31% showing bias in haas_bioroid)
+#389. Daniela Jorge Inácio included in 2.86% of all corp decklists (10.08% showing bias in jinteki)
+#388. Remastered Edition included in 2.86% of all corp decklists (15.01% showing bias in nbn)
+#387. Baker included in 2.97% of all runner decklists (8.05% showing bias in criminal)
+#386. Post-Truth Dividend included in 2.86% of all corp decklists (15.01% showing bias in nbn)
+#385. Amanuensis included in 3.04% of all runner decklists (10.97% showing bias in anarch)
+#384. Big Deal included in 2.93% of all corp decklists (14.81% showing bias in haas_bioroid)
+#383. A Teia: IP Recovery included in 2.96% of all corp decklists (10.43% showing bias in jinteki)
+#382. Bathynomus included in 2.99% of all corp decklists (10.55% showing bias in jinteki)
+#381. PT Untaian: Life's Building Blocks included in 2.99% of all corp decklists (10.55% showing bias in jinteki)
+#380. Prognostic Q-Loop included in 3.11% of all runner decklists (8.43% showing bias in criminal)
+#379. Nonequivalent Exchange included in 2.99% of all corp decklists (15.71% showing bias in nbn)
+#378. Vovô Ozetti included in 3.03% of all corp decklists (15.32% showing bias in haas_bioroid)
+#377. Dewi Subrotoputri: Pedagogical Dhalang included in 3.15% of all runner decklists (9.06% showing bias in shaper)
+#376. Bling included in 3.15% of all runner decklists (11.35% showing bias in anarch)
+#375. Pantograph included in 3.15% of all runner decklists (9.06% showing bias in shaper)
+#374. Swift included in 3.18% of all runner decklists (8.61% showing bias in criminal)
+#373. Synchrocyclotron included in 3.06% of all corp decklists (15.49% showing bias in haas_bioroid)
+#372. Reanimation Protocol included in 3.06% of all corp decklists (9.85% showing bias in weyland_consortium)
+#371. Flip Switch included in 3.21% of all runner decklists (8.71% showing bias in criminal)
+#370. Epiphany Analytica: Nations Undivided included in 3.13% of all corp decklists (16.4% showing bias in nbn)
+#369. Sudden Commandment included in 3.13% of all corp decklists (16.4% showing bias in nbn)
+#368. Vladisibirsk City Grid included in 3.16% of all corp decklists (16.58% showing bias in nbn)
+#367. Isaac Liberdade included in 3.16% of all corp decklists (10.17% showing bias in weyland_consortium)
+#366. Orca included in 3.28% of all runner decklists (9.46% showing bias in shaper)
+#365. Sisyphus Protocol included in 3.16% of all corp decklists (11.14% showing bias in jinteki)
+#364. Topan: Ormas Leader included in 3.32% of all runner decklists (11.97% showing bias in anarch)
+#363. Editorial Division: Ad Nihilum included in 3.19% of all corp decklists (16.75% showing bias in nbn)
+#362. Balanced Coverage included in 3.23% of all corp decklists (16.93% showing bias in nbn)
+#361. Reaper Function included in 3.23% of all corp decklists (11.37% showing bias in jinteki)
+#360. Neurospike included in 3.26% of all corp decklists (11.49% showing bias in jinteki)
+#359. Poétrï Luxury Brands: All the Rage included in 3.29% of all corp decklists (16.67% showing bias in haas_bioroid)
+#358. See How They Run included in 3.29% of all corp decklists (11.61% showing bias in jinteki)
+#357. Kompromat included in 3.42% of all runner decklists (9.27% showing bias in criminal)
+#356. Flywheel included in 3.29% of all corp decklists (10.6% showing bias in weyland_consortium)
+#355. Basilar Synthgland 2KVJ included in 3.46% of all runner decklists (9.96% showing bias in shaper)
+#354. Cultivate included in 3.33% of all corp decklists (11.72% showing bias in jinteki)
+#353. Hostile Architecture included in 3.33% of all corp decklists (10.71% showing bias in weyland_consortium)
+#352. Into the Depths included in 3.46% of all runner decklists (9.96% showing bias in shaper)
+#351. Nuvem SA: Law of the Land included in 3.36% of all corp decklists (10.81% showing bias in weyland_consortium)
+#350. Salvo Testing included in 3.43% of all corp decklists (17.34% showing bias in haas_bioroid)
+#349. Poison Vial included in 3.56% of all runner decklists (9.64% showing bias in criminal)
+#348. Mercury: Chrome Libertador included in 3.56% of all runner decklists (9.64% showing bias in criminal)
+#347. Hantu included in 3.59% of all runner decklists (12.97% showing bias in anarch)
+#346. Warm Reception included in 3.46% of all corp decklists (17.51% showing bias in haas_bioroid)
+#345. Lotus Haze included in 3.49% of all corp decklists (12.31% showing bias in jinteki)
+#344. Ganked! included in 3.56% of all corp decklists (18.67% showing bias in nbn)
+#343. Debbie "Downtown" Moreira included in 3.73% of all runner decklists (10.11% showing bias in criminal)
+#342. Malandragem included in 3.73% of all runner decklists (10.11% showing bias in criminal)
+#341. Adrian Seis included in 3.62% of all corp decklists (12.78% showing bias in jinteki)
+#340. Daeg, First Net-Cat included in 3.77% of all runner decklists (10.86% showing bias in shaper)
+#339. Fransofia Ward included in 3.77% of all runner decklists (10.21% showing bias in criminal)
+#338. Jaguarundi included in 3.66% of all corp decklists (18.52% showing bias in haas_bioroid)
+#337. Azef Protocol included in 3.66% of all corp decklists (11.78% showing bias in weyland_consortium)
+#336. Pelangi included in 3.84% of all runner decklists (11.06% showing bias in shaper)
+#335. Witch Hunt included in 3.69% of all corp decklists (19.37% showing bias in nbn)
+#334. Captain Padma Isbister: Intrepid Explorer included in 3.87% of all runner decklists (11.16% showing bias in shaper)
+#333. Mantle included in 3.87% of all runner decklists (11.16% showing bias in shaper)
+#332. Thule Subsea: Safety Below included in 3.76% of all corp decklists (19.02% showing bias in haas_bioroid)
+#331. Hippocampic Mechanocytes included in 3.94% of all runner decklists (11.35% showing bias in shaper)
+#330. Nihilo Agent included in 3.79% of all corp decklists (19.9% showing bias in nbn)
+#329. Time Bomb included in 3.98% of all runner decklists (14.34% showing bias in anarch)
+#328. Magistrate Revontulet included in 3.86% of all corp decklists (20.24% showing bias in nbn)
+#327. Stavka included in 3.89% of all corp decklists (12.53% showing bias in weyland_consortium)
+#326. Architect Deployment Test included in 3.89% of all corp decklists (19.7% showing bias in haas_bioroid)
+#325. Rent Rioters included in 4.04% of all runner decklists (14.59% showing bias in anarch)
+#324. Knowledge Seeker included in 3.92% of all corp decklists (13.83% showing bias in jinteki)
+#323. Stowaway included in 4.08% of all runner decklists (11.75% showing bias in shaper)
+#322. Working Prototype included in 3.92% of all corp decklists (19.87% showing bias in haas_bioroid)
+#321. Sebastião Souza Pessoa: Activist Organizer included in 4.08% of all runner decklists (14.71% showing bias in anarch)
+#320. Vulnerability Audit included in 3.92% of all corp decklists (44.92% showing bias in neutral_corp)
+#319. Stoke the Embers included in 3.96% of all corp decklists (20.77% showing bias in nbn)
+#318. Reprise included in 4.11% of all runner decklists (11.14% showing bias in criminal)
+#317. Chekist Scion included in 3.99% of all corp decklists (20.94% showing bias in nbn)
+#316. Banner included in 4.15% of all runner decklists (14.96% showing bias in anarch)
+#315. LEO Construction: Labor Solutions included in 3.99% of all corp decklists (20.2% showing bias in haas_bioroid)
+#314. Grubber included in 3.99% of all corp decklists (20.94% showing bias in nbn)
+#313. Hafrún included in 4.02% of all corp decklists (14.19% showing bias in jinteki)
+#312. Synapse Global: Faster than Thought included in 4.02% of all corp decklists (21.12% showing bias in nbn)
+#311. Federal Fundraising included in 4.09% of all corp decklists (21.47% showing bias in nbn)
+#310. Ryō “Phoenix” Ōno: Out of the Ashes included in 4.29% of all runner decklists (15.46% showing bias in anarch)
+#309. Lamplighter included in 4.12% of all corp decklists (42.74% showing bias in neutral_corp)
+#308. Charm Offensive included in 4.36% of all runner decklists (15.71% showing bias in anarch)
+#307. Afterimage included in 4.46% of all runner decklists (12.08% showing bias in criminal)
+#306. Chastushka included in 4.49% of all runner decklists (16.21% showing bias in anarch)
+#305. Gaslight included in 4.32% of all corp decklists (22.69% showing bias in nbn)
+#304. Starlit Knight included in 4.36% of all corp decklists (22.86% showing bias in nbn)
+#303. Mercia B4LL4RD included in 4.36% of all corp decklists (22.05% showing bias in haas_bioroid)
+#302. Saci included in 4.53% of all runner decklists (12.27% showing bias in criminal)
+#301. Unleash included in 4.42% of all corp decklists (15.59% showing bias in jinteki)
+#300. Djupstad Grid included in 4.42% of all corp decklists (22.39% showing bias in haas_bioroid)
+#299. Tailgate included in 4.63% of all runner decklists (12.55% showing bias in criminal)
+#298. Tāo Salonga: Telepresence Magician included in 4.67% of all runner decklists (13.45% showing bias in shaper)
+#297. Unsmiling Tsarevna included in 4.49% of all corp decklists (23.56% showing bias in nbn)
+#296. Rejig included in 4.7% of all runner decklists (13.97% showing bias in neutral_runner)
+#295. Corporate Hospitality included in 4.52% of all corp decklists (22.9% showing bias in haas_bioroid)
+#294. Katorga Breakout included in 4.74% of all runner decklists (17.08% showing bias in anarch)
+#293. Sacrifice Zone Expansion included in 4.59% of all corp decklists (14.78% showing bias in weyland_consortium)
+#292. Mahkota Langit Grid included in 4.62% of all corp decklists (38.13% showing bias in neutral_corp)
+#291. Élivágar Bifurcation included in 4.62% of all corp decklists (23.4% showing bias in haas_bioroid)
+#290. Aggressive Trendsetting included in 4.72% of all corp decklists (23.91% showing bias in haas_bioroid)
+#289. Nightmare Archive included in 4.72% of all corp decklists (23.91% showing bias in haas_bioroid)
+#288. BANGUN: When Disaster Strikes included in 4.76% of all corp decklists (15.31% showing bias in weyland_consortium)
+#287. Phoneutria included in 4.79% of all corp decklists (16.88% showing bias in jinteki)
+#286. Virtual Service Agent included in 4.79% of all corp decklists (25.13% showing bias in nbn)
+#285. Chisel included in 5.05% of all runner decklists (18.2% showing bias in anarch)
+#284. Týr included in 4.86% of all corp decklists (24.58% showing bias in haas_bioroid)
+#283. Behold! included in 4.86% of all corp decklists (25.48% showing bias in nbn)
+#282. Business As Usual included in 4.89% of all corp decklists (15.74% showing bias in weyland_consortium)
+#281. Hagen included in 4.96% of all corp decklists (25.08% showing bias in haas_bioroid)
+#280. IP Enforcement included in 4.99% of all corp decklists (26.18% showing bias in nbn)
+#279. F2P included in 4.99% of all corp decklists (26.18% showing bias in nbn)
+#278. Valentão included in 5.02% of all corp decklists (16.17% showing bias in weyland_consortium)
+#277. Esâ Afontov: Eco-Insurrectionist included in 5.22% of all runner decklists (18.83% showing bias in anarch)
+#276. Begemot included in 5.22% of all runner decklists (18.83% showing bias in anarch)
+#275. Rigging Up included in 5.29% of all runner decklists (15.24% showing bias in shaper)
+#274. Flagship included in 5.09% of all corp decklists (16.38% showing bias in weyland_consortium)
+#273. Ghosttongue included in 5.36% of all runner decklists (19.33% showing bias in anarch)
+#272. B-1001 included in 5.19% of all corp decklists (33.97% showing bias in neutral_corp)
+#271. Running Hot included in 5.46% of all runner decklists (19.7% showing bias in anarch)
+#270. Virtual Intelligence, P.I.: “You Can Call Me Vic” included in 5.5% of all runner decklists (14.89% showing bias in criminal)
+#269. Nebula Talent Management: Making Stars included in 5.29% of all corp decklists (27.75% showing bias in nbn)
+#268. Extract included in 5.29% of all corp decklists (17.02% showing bias in weyland_consortium)
+#267. Ballista included in 5.32% of all corp decklists (17.13% showing bias in weyland_consortium)
+#266. Urban Art Vernissage included in 5.53% of all runner decklists (15.94% showing bias in shaper)
+#265. Idiosyncresis included in 5.32% of all corp decklists (27.92% showing bias in nbn)
+#264. Blood in the Water included in 5.39% of all corp decklists (18.99% showing bias in jinteki)
+#263. Pivot included in 5.39% of all corp decklists (17.34% showing bias in weyland_consortium)
+#262. Shipment from Vladisibirsk included in 5.45% of all corp decklists (28.62% showing bias in nbn)
+#261. Greasing the Palm included in 5.49% of all corp decklists (27.78% showing bias in haas_bioroid)
+#260. Pressure Spike included in 5.7% of all runner decklists (16.43% showing bias in shaper)
+#259. Cat's Cradle included in 5.7% of all runner decklists (15.45% showing bias in criminal)
+#258. Ontological Dependence included in 5.55% of all corp decklists (28.11% showing bias in haas_bioroid)
+#257. Lat: Ethical Freelancer included in 5.77% of all runner decklists (16.63% showing bias in shaper)
+#256. Ansel 1.0 included in 5.59% of all corp decklists (28.28% showing bias in haas_bioroid)
+#255. Friend of a Friend included in 5.84% of all runner decklists (21.07% showing bias in anarch)
+#254. Aniccam included in 5.88% of all runner decklists (16.93% showing bias in shaper)
+#253. Top-Down Solutions included in 5.69% of all corp decklists (28.79% showing bias in haas_bioroid)
+#252. Slap Vandal included in 5.91% of all runner decklists (17.03% showing bias in shaper)
+#251. Alarm Clock included in 5.95% of all runner decklists (16.1% showing bias in criminal)
+#250. Tocsin included in 5.75% of all corp decklists (18.52% showing bias in weyland_consortium)
+#249. Mycoweb included in 5.79% of all corp decklists (20.4% showing bias in jinteki)
+#248. AMAZE Amusements included in 5.82% of all corp decklists (30.54% showing bias in nbn)
+#247. Freedom of Information included in 5.89% of all corp decklists (30.89% showing bias in nbn)
+#246. Jinteki: Restoring Humanity included in 5.92% of all corp decklists (20.87% showing bias in jinteki)
+#245. Valentina Ferreira Carvalho included in 6.15% of all runner decklists (10.67% showing bias in neutral_runner)
+#244. Madani included in 6.15% of all runner decklists (17.73% showing bias in shaper)
+#243. Angelique Garza Correa included in 5.95% of all corp decklists (19.16% showing bias in weyland_consortium)
+#242. DreamNet included in 6.26% of all runner decklists (10.5% showing bias in neutral_runner)
+#241. Piranhas included in 6.02% of all corp decklists (31.59% showing bias in nbn)
+#240. Marrow included in 6.33% of all runner decklists (22.82% showing bias in anarch)
+#239. Wall to Wall included in 6.12% of all corp decklists (19.7% showing bias in weyland_consortium)
+#238. Proprionegation included in 6.12% of all corp decklists (21.57% showing bias in jinteki)
+#237. Tucana included in 6.12% of all corp decklists (19.7% showing bias in weyland_consortium)
+#236. Artificial Cryptocrash included in 6.15% of all corp decklists (32.29% showing bias in nbn)
+#235. Public Trail included in 6.25% of all corp decklists (32.81% showing bias in nbn)
+#234. Barry “Baz” Wong: Tri-Maf Veteran included in 6.5% of all runner decklists (17.6% showing bias in criminal)
+#233. Oracle Thinktank included in 6.25% of all corp decklists (32.81% showing bias in nbn)
+#232. Flood the Market included in 6.32% of all corp decklists (33.16% showing bias in nbn)
+#231. Lago Paranoá Shelter included in 6.67% of all runner decklists (24.06% showing bias in anarch)
+#230. Otto Campaign included in 6.48% of all corp decklists (32.83% showing bias in haas_bioroid)
+#229. Gauss included in 6.77% of all runner decklists (19.52% showing bias in shaper)
+#228. Peer Review included in 6.55% of all corp decklists (23.09% showing bias in jinteki)
+#227. Arissana Rocha Nahu: Street Artist included in 6.84% of all runner decklists (19.72% showing bias in shaper)
+#226. Haas-Bioroid: Precision Design included in 6.68% of all corp decklists (33.84% showing bias in haas_bioroid)
+#225. Saisentan included in 6.75% of all corp decklists (23.8% showing bias in jinteki)
+#224. Cacophony included in 7.02% of all runner decklists (25.31% showing bias in anarch)
+#223. Akhet included in 6.82% of all corp decklists (21.95% showing bias in weyland_consortium)
+#222. Plutus included in 6.82% of all corp decklists (21.95% showing bias in weyland_consortium)
+#221. Finality included in 7.09% of all runner decklists (25.56% showing bias in anarch)
+#220. Myōshu included in 6.85% of all corp decklists (22.06% showing bias in weyland_consortium)
+#219. Tranquilizer included in 7.19% of all runner decklists (19.48% showing bias in criminal)
+#218. VRcation included in 7.19% of all runner decklists (20.72% showing bias in shaper)
+#217. Vampyronassa included in 6.92% of all corp decklists (24.38% showing bias in jinteki)
+#216. Euler included in 7.22% of all runner decklists (20.82% showing bias in shaper)
+#215. Lionsmane included in 6.98% of all corp decklists (24.62% showing bias in jinteki)
+#214. Sprint included in 7.02% of all corp decklists (35.52% showing bias in haas_bioroid)
+#213. Mindscaping included in 7.05% of all corp decklists (24.85% showing bias in jinteki)
+#212. Vulture Fund included in 7.05% of all corp decklists (22.7% showing bias in weyland_consortium)
+#211. Méliès U: Only the Brightest included in 7.08% of all corp decklists (24.97% showing bias in jinteki)
+#210. N-Pot included in 7.08% of all corp decklists (37.17% showing bias in nbn)
+#209. Manuel Lattes de Moura included in 7.47% of all runner decklists (26.93% showing bias in anarch)
+#208. Harmony AR Therapy included in 7.47% of all runner decklists (21.51% showing bias in shaper)
+#207. The Zwicky Group: Invisible Hands included in 7.28% of all corp decklists (23.45% showing bias in weyland_consortium)
+#206. Devil Charm included in 7.6% of all runner decklists (27.43% showing bias in anarch)
+#205. Bigger Picture included in 7.35% of all corp decklists (38.57% showing bias in nbn)
+#204. Pichação included in 7.67% of all runner decklists (22.11% showing bias in shaper)
+#203. Gachapon included in 7.71% of all runner decklists (27.81% showing bias in anarch)
+#202. Kessleroid included in 7.42% of all corp decklists (23.88% showing bias in weyland_consortium)
+#201. Wildcat Strike included in 7.74% of all runner decklists (27.93% showing bias in anarch)
+#200. Arruaceiras Crew included in 7.74% of all runner decklists (27.93% showing bias in anarch)
+#199. Diviner included in 7.48% of all corp decklists (26.38% showing bias in jinteki)
+#198. Touchstone included in 7.78% of all runner decklists (22.41% showing bias in shaper)
+#197. Hybrid Release included in 7.52% of all corp decklists (26.49% showing bias in jinteki)
+#196. Sericulture Expansion included in 7.52% of all corp decklists (26.49% showing bias in jinteki)
+#195. Fully Operational included in 7.52% of all corp decklists (38.05% showing bias in haas_bioroid)
+#194. Carpe Diem included in 7.85% of all runner decklists (21.25% showing bias in criminal)
+#193. Cookbook included in 7.88% of all runner decklists (28.43% showing bias in anarch)
+#192. Burner included in 7.92% of all runner decklists (22.81% showing bias in shaper)
+#191. Eminent Domain included in 7.68% of all corp decklists (24.73% showing bias in weyland_consortium)
+#190. AU Co.: The Gold Standard in Clones included in 7.72% of all corp decklists (27.2% showing bias in jinteki)
+#189. Illumination included in 8.02% of all runner decklists (23.11% showing bias in shaper)
+#188. Bladderwort included in 7.72% of all corp decklists (27.2% showing bias in jinteki)
+#187. T400 Memory Diamond included in 8.05% of all runner decklists (8.15% showing bias in neutral_runner)
+#186. Window of Opportunity included in 8.19% of all runner decklists (22.19% showing bias in criminal)
+#185. Magdalene Keino-Chemutai: Cryptarchitect included in 8.23% of all runner decklists (23.71% showing bias in shaper)
+#184. Maglectric Rapid (748 Mod) included in 8.3% of all runner decklists (22.47% showing bias in criminal)
+#183. Keiko included in 8.4% of all runner decklists (30.3% showing bias in anarch)
+#182. Smartware Distributor included in 8.47% of all runner decklists (7.76% showing bias in neutral_runner)
+#181. MuslihaT: Multifarious Marketeer included in 8.54% of all runner decklists (23.13% showing bias in criminal)
+#180. Red Team included in 8.61% of all runner decklists (23.31% showing bias in criminal)
+#179. Hush included in 8.68% of all runner decklists (31.3% showing bias in anarch)
+#178. Malapert Data Vault included in 8.51% of all corp decklists (27.41% showing bias in weyland_consortium)
+#177. Cataloguer included in 8.88% of all runner decklists (25.6% showing bias in shaper)
+#176. Lie Low included in 8.92% of all runner decklists (24.16% showing bias in criminal)
+#175. Public Access Plaza included in 8.65% of all corp decklists (45.38% showing bias in nbn)
+#174. Karunā included in 8.71% of all corp decklists (30.72% showing bias in jinteki)
+#173. The Price included in 9.19% of all runner decklists (33.17% showing bias in anarch)
+#172. Retribution included in 8.88% of all corp decklists (28.59% showing bias in weyland_consortium)
+#171. Your Digital Life included in 8.88% of all corp decklists (46.6% showing bias in nbn)
+#170. Nico Campaign included in 8.95% of all corp decklists (45.29% showing bias in haas_bioroid)
+#169. Devadatta Drone included in 9.33% of all runner decklists (26.89% showing bias in shaper)
+#168. M.I.C. included in 9.21% of all corp decklists (46.63% showing bias in haas_bioroid)
+#167. Deep Dive included in 9.57% of all runner decklists (27.59% showing bias in shaper)
+#166. Nanomanagement included in 9.25% of all corp decklists (46.8% showing bias in haas_bioroid)
+#165. Side Hustle included in 9.64% of all runner decklists (6.81% showing bias in neutral_runner)
+#164. Chromatophores included in 9.75% of all runner decklists (28.09% showing bias in shaper)
+#163. Embedded Reporting included in 9.38% of all corp decklists (49.21% showing bias in nbn)
+#162. Privileged Access included in 9.82% of all runner decklists (35.41% showing bias in anarch)
+#161. Solidarity Badge included in 9.85% of all runner decklists (35.54% showing bias in anarch)
+#160. Phật Gioan Baotixita included in 9.64% of all corp decklists (34.0% showing bias in jinteki)
+#159. “Pretty” Mary da Silva included in 10.02% of all runner decklists (28.88% showing bias in shaper)
+#158. Hammer included in 9.74% of all corp decklists (31.37% showing bias in weyland_consortium)
+#157. Slash and Burn Agriculture included in 9.84% of all corp decklists (31.69% showing bias in weyland_consortium)
+#156. AirbladeX (JSRF Ed.) included in 10.23% of all runner decklists (29.48% showing bias in shaper)
+#155. Principia included in 10.27% of all runner decklists (29.58% showing bias in shaper)
+#154. Audrey v2 included in 10.3% of all runner decklists (37.16% showing bias in anarch)
+#153. Descent included in 10.01% of all corp decklists (32.23% showing bias in weyland_consortium)
+#152. Méliès City Luxury Line included in 10.01% of all corp decklists (50.67% showing bias in haas_bioroid)
+#151. Project Ingatan included in 10.04% of all corp decklists (50.84% showing bias in haas_bioroid)
+#150. S-Dobrado included in 10.47% of all runner decklists (28.37% showing bias in criminal)
+#149. Next Big Thing included in 10.11% of all corp decklists (53.05% showing bias in nbn)
+#148. Shibboleth included in 10.54% of all runner decklists (28.56% showing bias in criminal)
+#147. Maintenance Access included in 10.58% of all runner decklists (28.65% showing bias in criminal)
+#146. Sang Kancil included in 10.65% of all runner decklists (28.84% showing bias in criminal)
+#145. Regenesis included in 10.34% of all corp decklists (36.46% showing bias in jinteki)
+#144. Tranquility Home Grid included in 10.38% of all corp decklists (52.53% showing bias in haas_bioroid)
+#143. Moon Pool included in 10.38% of all corp decklists (36.58% showing bias in jinteki)
+#142. Marjanah included in 10.82% of all runner decklists (29.31% showing bias in criminal)
+#141. René “Loup” Arcemont: Party Animal included in 10.82% of all runner decklists (39.03% showing bias in anarch)
+#140. Mitra Aman included in 10.41% of all corp decklists (36.69% showing bias in jinteki)
+#139. Mayfly included in 10.89% of all runner decklists (6.03% showing bias in neutral_runner)
+#138. Zahya Sadeghi: Versatile Smuggler included in 10.89% of all runner decklists (29.49% showing bias in criminal)
+#137. Wage Workers included in 10.51% of all corp decklists (53.2% showing bias in haas_bioroid)
+#136. Off the Books included in 10.54% of all corp decklists (33.94% showing bias in weyland_consortium)
+#135. Raindrops Cut Stone included in 11.03% of all runner decklists (39.78% showing bias in anarch)
+#134. Red Level Clearance included in 10.71% of all corp decklists (54.21% showing bias in haas_bioroid)
+#133. Doomscroll included in 10.77% of all corp decklists (56.54% showing bias in nbn)
+#132. Weyland Consortium: Built to Last included in 10.81% of all corp decklists (34.8% showing bias in weyland_consortium)
+#131. Sleipnir included in 10.84% of all corp decklists (54.88% showing bias in haas_bioroid)
+#130. Attini included in 10.87% of all corp decklists (38.34% showing bias in jinteki)
+#129. Cloud Eater included in 10.87% of all corp decklists (38.34% showing bias in jinteki)
+#128. Trickster Taka included in 11.3% of all runner decklists (40.77% showing bias in anarch)
+#127. The Powers That Be included in 10.87% of all corp decklists (16.21% showing bias in neutral_corp)
+#126. Scrounge included in 11.34% of all runner decklists (40.9% showing bias in anarch)
+#125. Mavirus included in 11.07% of all corp decklists (39.04% showing bias in jinteki)
+#124. Ablative Barrier included in 11.07% of all corp decklists (56.06% showing bias in haas_bioroid)
+#123. Empiricist included in 11.14% of all corp decklists (39.27% showing bias in jinteki)
+#122. Bahia Bands included in 11.65% of all runner decklists (5.64% showing bias in neutral_runner)
+#121. Ashen Epilogue included in 11.89% of all runner decklists (5.52% showing bias in neutral_runner)
+#120. Buffer Drive included in 11.89% of all runner decklists (5.52% showing bias in neutral_runner)
+#119. No Free Lunch included in 11.96% of all runner decklists (32.4% showing bias in criminal)
+#118. Superconducting Hub included in 11.61% of all corp decklists (15.19% showing bias in neutral_corp)
+#117. Orbital Superiority included in 11.67% of all corp decklists (15.1% showing bias in neutral_corp)
+#116. GAMEDRAGON™ Pro included in 12.37% of all runner decklists (35.66% showing bias in shaper)
+#115. Cohort Guidance Program included in 12.24% of all corp decklists (43.14% showing bias in jinteki)
+#114. Mestnichestvo included in 12.3% of all corp decklists (64.57% showing bias in nbn)
+#113. La Costa Grid included in 12.44% of all corp decklists (43.85% showing bias in jinteki)
+#112. Fencer Fueno included in 12.93% of all runner decklists (46.63% showing bias in anarch)
+#111. End of the Line included in 12.6% of all corp decklists (40.58% showing bias in weyland_consortium)
+#110. Clearinghouse included in 12.64% of all corp decklists (40.69% showing bias in weyland_consortium)
+#109. Maskirovka included in 12.64% of all corp decklists (40.69% showing bias in weyland_consortium)
+#108. Scatter Field included in 12.7% of all corp decklists (64.31% showing bias in haas_bioroid)
+#107. Syailendra included in 12.87% of all corp decklists (41.43% showing bias in weyland_consortium)
+#106. WAKE Implant v2A-JRJ included in 13.38% of all runner decklists (36.24% showing bias in criminal)
+#105. Bumi 1.0 included in 12.94% of all corp decklists (65.49% showing bias in haas_bioroid)
+#104. SDS Drone Deployment included in 12.97% of all corp decklists (41.76% showing bias in weyland_consortium)
+#103. Tithe included in 13.1% of all corp decklists (13.45% showing bias in neutral_corp)
+#102. Oppo Research included in 13.2% of all corp decklists (69.28% showing bias in nbn)
+#101. Mystic Maemi included in 13.76% of all runner decklists (49.63% showing bias in anarch)
+#100. Pennyshaver included in 13.86% of all runner decklists (37.55% showing bias in criminal)
+#99. Environmental Testing included in 13.9% of all runner decklists (40.04% showing bias in shaper)
+#98. Anemone included in 13.47% of all corp decklists (47.48% showing bias in jinteki)
+#97. Spec Work included in 14.0% of all runner decklists (40.34% showing bias in shaper)
+#96. Winchester included in 13.47% of all corp decklists (43.36% showing bias in weyland_consortium)
+#95. The Tungsten Tailor included in 14.17% of all runner decklists (51.12% showing bias in anarch)
+#94. Afshar included in 13.9% of all corp decklists (44.75% showing bias in weyland_consortium)
+#93. Conduit included in 14.55% of all runner decklists (41.93% showing bias in shaper)
+#92. Drafter included in 14.1% of all corp decklists (71.38% showing bias in haas_bioroid)
+#91. Tread Lightly included in 14.76% of all runner decklists (39.98% showing bias in criminal)
+#90. Event Horizon included in 14.23% of all corp decklists (45.82% showing bias in weyland_consortium)
+#89. Physarum Entangler included in 14.83% of all runner decklists (40.17% showing bias in criminal)
+#88. LilyPAD included in 14.86% of all runner decklists (42.83% showing bias in shaper)
+#87. Tree Line included in 14.4% of all corp decklists (46.36% showing bias in weyland_consortium)
+#86. Urtica Cipher included in 14.57% of all corp decklists (51.35% showing bias in jinteki)
+#85. Stoneship Chart Room included in 15.28% of all runner decklists (44.02% showing bias in shaper)
+#84. Logjam included in 14.9% of all corp decklists (47.97% showing bias in weyland_consortium)
+#83. Eru Ayase-Pessoa included in 15.62% of all runner decklists (56.36% showing bias in anarch)
+#82. Funhouse included in 15.13% of all corp decklists (79.41% showing bias in nbn)
+#81. Pharos included in 15.13% of all corp decklists (48.72% showing bias in weyland_consortium)
+#80. Byte! included in 15.13% of all corp decklists (53.34% showing bias in jinteki)
+#79. The Basalt Spire included in 15.16% of all corp decklists (48.82% showing bias in weyland_consortium)
+#78. Palisade included in 15.26% of all corp decklists (11.55% showing bias in neutral_corp)
+#77. Boto included in 15.36% of all corp decklists (54.16% showing bias in jinteki)
+#76. Humanoid Resources included in 15.56% of all corp decklists (78.79% showing bias in haas_bioroid)
+#75. Greenmail included in 15.6% of all corp decklists (50.21% showing bias in weyland_consortium)
+#74. “Knickknack” O’Brian included in 16.28% of all runner decklists (46.91% showing bias in shaper)
+#73. The Holo Man included in 15.76% of all corp decklists (82.72% showing bias in nbn)
+#72. Muse included in 17.25% of all runner decklists (49.7% showing bias in shaper)
+#71. Paladin Poemu included in 17.25% of all runner decklists (62.22% showing bias in anarch)
+#70. Hannah "Wheels" Pilintra included in 17.28% of all runner decklists (62.34% showing bias in anarch)
+#69. Verbal Plasticity included in 17.66% of all runner decklists (3.72% showing bias in neutral_runner)
+#68. Biawak included in 16.99% of all corp decklists (54.71% showing bias in weyland_consortium)
+#67. Anthill Excavation Contract included in 17.19% of all corp decklists (55.35% showing bias in weyland_consortium)
+#66. Let Them Dream included in 17.29% of all corp decklists (10.19% showing bias in neutral_corp)
+#65. Semak-samun included in 17.46% of all corp decklists (61.55% showing bias in jinteki)
+#64. Strike Fund included in 18.67% of all runner decklists (67.33% showing bias in anarch)
+#63. Whitespace included in 18.02% of all corp decklists (9.78% showing bias in neutral_corp)
+#62. Government Subsidy included in 18.26% of all corp decklists (58.78% showing bias in weyland_consortium)
+#61. Ping included in 18.26% of all corp decklists (95.81% showing bias in nbn)
+#60. Tomorrowʼs Headline included in 18.46% of all corp decklists (96.86% showing bias in nbn)
+#59. Self-modifying Code included in 19.32% of all runner decklists (55.68% showing bias in shaper)
+#58. Longevity Serum included in 18.62% of all corp decklists (65.65% showing bias in jinteki)
+#57. Telework Contract included in 19.74% of all runner decklists (56.87% showing bias in shaper)
+#56. Gourmand included in 19.77% of all runner decklists (71.32% showing bias in anarch)
+#55. Anoetic Void included in 19.29% of all corp decklists (68.0% showing bias in jinteki)
+#54. Hermes included in 20.22% of all runner decklists (54.78% showing bias in criminal)
+#53. Key Performance Indicators included in 19.52% of all corp decklists (62.85% showing bias in weyland_consortium)
+#52. Azimat included in 20.32% of all runner decklists (58.57% showing bias in shaper)
+#51. Fujii Asset Retrieval included in 19.72% of all corp decklists (69.52% showing bias in jinteki)
+#50. Daily Casts included in 20.5% of all runner decklists (3.2% showing bias in neutral_runner)
+#49. Open Market included in 20.57% of all runner decklists (55.71% showing bias in criminal)
+#48. Botulus included in 21.02% of all runner decklists (75.81% showing bias in anarch)
+#47. Manegarm Skunkworks included in 20.25% of all corp decklists (97.54% showing bias in haas_bioroid)
+#46. Propeller included in 21.26% of all runner decklists (61.25% showing bias in shaper)
+#45. The Class Act included in 21.53% of all runner decklists (58.33% showing bias in criminal)
+#44. Brân 1.0 included in 20.75% of all corp decklists (95.19% showing bias in haas_bioroid)
+#43. Buzzsaw included in 21.95% of all runner decklists (79.18% showing bias in anarch)
+#42. Charlotte Caçador included in 21.32% of all corp decklists (75.15% showing bias in jinteki)
+#41. Curupira included in 22.4% of all runner decklists (60.67% showing bias in criminal)
+#40. Cezve included in 22.85% of all runner decklists (61.89% showing bias in criminal)
+#39. Coalescence included in 23.12% of all runner decklists (66.63% showing bias in shaper)
+#38. Tatu-Bola included in 22.71% of all corp decklists (80.07% showing bias in jinteki)
+#37. Steelskin Scarring included in 23.89% of all runner decklists (86.16% showing bias in anarch)
+#36. Above the Law included in 23.08% of all corp decklists (74.3% showing bias in weyland_consortium)
+#35. Docklands Pass included in 24.02% of all runner decklists (65.07% showing bias in criminal)
+#34. Cupellation included in 24.06% of all runner decklists (65.17% showing bias in criminal)
+#33. Jailbreak included in 24.16% of all runner decklists (2.72% showing bias in neutral_runner)
+#32. Boomerang included in 24.85% of all runner decklists (67.32% showing bias in criminal)
+#31. Bravado included in 25.2% of all runner decklists (68.26% showing bias in criminal)
+#30. Carmen included in 26.89% of all runner decklists (72.85% showing bias in criminal)
+#29. Creative Commission included in 27.07% of all runner decklists (77.99% showing bias in shaper)
+#28. Measured Response included in 26.27% of all corp decklists (84.58% showing bias in weyland_consortium)
+#27. Mutual Favor included in 27.45% of all runner decklists (74.34% showing bias in criminal)
+#26. Revolver included in 27.45% of all runner decklists (74.34% showing bias in criminal)
+#25. The Twinning included in 27.45% of all runner decklists (99.0% showing bias in anarch)
+#24. Unity included in 27.79% of all runner decklists (80.08% showing bias in shaper)
+#23. Leech included in 28.14% of all runner decklists (98.53% showing bias in anarch)
+#22. Seamless Launch included in 27.74% of all corp decklists (71.22% showing bias in haas_bioroid)
+#21. Rising Tide included in 29.24% of all runner decklists (94.8% showing bias in anarch)
+#20. Hansei Review included in 28.33% of all corp decklists (99.88% showing bias in jinteki)
+#19. Predictive Planogram included in 28.33% of all corp decklists (67.25% showing bias in nbn)
+#18. Ritual included in 31.14% of all runner decklists (89.74% showing bias in shaper)
+#17. Clean Getaway included in 31.42% of all runner decklists (85.11% showing bias in criminal)
+#16. Overclock included in 31.46% of all runner decklists (2.09% showing bias in neutral_runner)
+#15. Flyswatter included in 30.96% of all corp decklists (5.69% showing bias in neutral_corp)
+#14. Offworld Office included in 31.86% of all corp decklists (5.53% showing bias in neutral_corp)
+#13. Transfer of Wealth included in 33.6% of all runner decklists (91.01% showing bias in criminal)
+#12. Echelon included in 34.84% of all runner decklists (99.6% showing bias in shaper)
+#11. DZMZ Optimizer included in 35.43% of all runner decklists (97.95% showing bias in shaper)
+#10. Simulchip included in 35.88% of all runner decklists (96.72% showing bias in shaper)
+#9. Send a Message included in 34.75% of all corp decklists (5.07% showing bias in neutral_corp)
+#8. Regolith Mining License included in 37.38% of all corp decklists (4.72% showing bias in neutral_corp)
+#7. Fermenter included in 40.3% of all runner decklists (68.78% showing bias in anarch)
+#6. Pinhole Threading included in 42.38% of all runner decklists (87.11% showing bias in criminal)
+#5. Dr. Nuka Vrolyck included in 44.45% of all runner decklists (78.07% showing bias in shaper)
+#4. Petty Cash included in 45.46% of all corp decklists (3.88% showing bias in neutral_corp)
+#3. Hedge Fund included in 78.55% of all corp decklists (2.24% showing bias in neutral_corp)
+#2. Sure Gamble included in 86.9% of all runner decklists (0.76% showing bias in neutral_runner)
+#1. Spin Doctor included in 89.86% of all corp decklists (21.21% showing bias in nbn)

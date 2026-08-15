@@ -1,6 +1,7 @@
 import json
 import os
 import formats
+import helpers
 
 def get_cards():
     CARDS_FILE = "data/cards.json"
@@ -39,6 +40,13 @@ def get_card_title(id="", card_pool=[]):
     card = next(filter(lambda x: x["id"] == id, card_pool), None)
     
     return card["attributes"]["title"]
+
+def get_faction(id="", faction="adam"):
+    cards = get_cards()
+    card = next(filter(lambda c: c["id"] == id, cards), None)
+    
+    return card["attributes"]["faction_id"]
+    
 
 def cache_legality():
     LEGALITY_FOLDER = "data/legality"
