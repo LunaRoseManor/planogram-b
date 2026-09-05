@@ -196,10 +196,7 @@ def install():
     return True
 
 def main():
-    # Check if first run setup is complete
-    installed = is_installed()
-    
-    if installed:
+    if is_installed():
         # Retrieve argument data both from the file and user input
         args = get_args()
         
@@ -261,6 +258,8 @@ def main():
         print("WARNING: First time setup hasn't been run")
         
         install()
+        
+        # Run the main function again
 
 if __name__ == "__main__":
     main()
